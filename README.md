@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="https://i.imgur.com/COkTt73.png" alt="Logo" width="80" height="80">
+  <img src="https://i.imgur.com/COkTt73.png" alt="Logo" width="180" height="180">
 
   <h3 align="center">Best-README-Template</h3>
 
