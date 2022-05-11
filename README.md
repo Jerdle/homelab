@@ -31,20 +31,8 @@
 <div align="center">
   <img src="https://i.imgur.com/COkTt73.png" alt="Logo" width="180" height="180">
 
-  <h3 align="center">Best-README-Template</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
+  <h3 align="center">Jerdle's Homelab</h3>
+  <p align="center">Useful Info & Future Planning</p>
 </div>
 
 
