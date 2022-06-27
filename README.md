@@ -140,7 +140,18 @@ system prune
 
 
 #### Myanonymouse
-to-do
+When qBittorrent is restarted and given a new IP address, Myanonymouse must run a script to set the dynamic seedbox ip
+<br>
+1. On Myanonymouse, submit new qBit IP address
+2. Change the 'Allow session to set dynamic seedbox IP' to true
+3. Get the cookie
+4. Inside the qBittorrent terminal, open a bash session and run the below script with the cookie
+<br>
+`curl -c /path/docker/persists/mam.cookies -b 'mam_id=long________session_______string' https://t.myanonamouse.net/json/dynamicSeedbox.php`
+<br>
+Expected result
+`{"Success":true,"msg":"Completed"}`
+
 
 <!-- RASPBERRY PI -->
 # Raspberry Pi
