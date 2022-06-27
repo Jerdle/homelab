@@ -75,7 +75,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 
-### Built With
+## Built With
 
 * [Synology DS220+](https://www.synology.com/en-us/products/DS220+)
 * [Docker](https://www.docker.com/)
@@ -85,11 +85,11 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 <!-- Synology Packages -->
-## Synology
+# Synology
 Docker Images used in my homelab setup.
 
 <!-- Docker -->
-## Docker
+# Docker
 ### Docker Admin
 - Portainer
 - Docker Hub
@@ -112,7 +112,9 @@ Docker Images used in my homelab setup.
 - [Organizr](https://hub.docker.com/r/organizr/organizr)
 - [Homarr](https://hub.docker.com/r/homarr/homarr)
 
-### Installation
+## Installation
+### Myanonymouse
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
