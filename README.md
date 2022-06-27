@@ -86,34 +86,35 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 <!-- Synology Packages -->
-## Synology Images
+## Synology
 Docker Images used in my homelab setup.
 
 <!-- Docker -->
-## Docker Admin
+## Docker
+### Docker Admin
 - Portainer
 - Docker Hub
 - hotio.dev
 
-## Docker Containers
+### Docker Containers
 Docker Images used in my homelab setup.
 
-- qBittorrent(https://hub.docker.com/r/markusmcnugen/qbittorrentvpn)
-- qBitManage
-- SABnzbd
-- Plex
-- Tautulli
-- Calibre
-- Jackett
-- Radarr
-- Sonarr
-- Lidarr
-- Readarr
-- Prowlarr
-- Flaresolverr
-- Overseerr
-- Organizr
-- Homarr
+- [qBittorrent](https://hub.docker.com/r/markusmcnugen/qbittorrentvpn)
+- [qBitManage]
+- [SABnzbd]
+- [Plex]
+- [Tautulli]
+- [Calibre]
+- [Jackett]
+- [Radarr]
+- [Sonarr]
+- [Lidarr]
+- [Readarr]
+- [Prowlarr]
+- [Flaresolverr]
+- [Overseerr]
+- [Organizr]
+- [Homarr]
 
 ### Installation
 
