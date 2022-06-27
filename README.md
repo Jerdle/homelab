@@ -146,8 +146,8 @@ Control home using VeSync Plugs
 Network-wide ad blocker
 <br>
 #### Lists
-- [Whitelist file](Pihole-Whitelist.rtf)
-- [Blacklist file](Pihole-Block.rtf)
+- [Whitelist file](pi/pihole/Pihole-Whitelist.rtf)
+- [Blacklist file](pi/pihole/Pihole-Block.rtf)
 - [Firebog Blocklists](https://firebog.net/)
 - [anudeepND Whitelist](https://github.com/anudeepND/whitelist)
 <br>
