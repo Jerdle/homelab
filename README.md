@@ -81,14 +81,13 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [Docker](https://www.docker.com/)
 * [Raspberry Pi 4](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/?variant=raspberry-pi-4-model-b-4gb)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
-
-<!-- Synology Packages -->
+<!-- SYNOLOGY -->
 # Synology
-Docker Images used in my homelab setup.
+- [Plex](https://forums.plex.tv/t/synology-faq-questions-answers-and-a-few-how-tos/490215)
+- Synology Photos for iOS backup
 
-<!-- Docker -->
+<!-- DOCKER -->
 # Docker
 ### Docker Admin
 - Portainer
@@ -109,12 +108,46 @@ Docker Images used in my homelab setup.
 - [Prowlarr](https://hotio.dev/containers/prowlarr/)
 - [Flaresolverr](https://hub.docker.com/r/flaresolverr/flaresolverr)
 - [Overseerr](https://hotio.dev/containers/overseerr/)
+- [Nginx Reverse Proxy]{(https://nginxproxymanager.com/)
 - [Organizr](https://hub.docker.com/r/organizr/organizr)
 - [Homarr](https://hub.docker.com/r/homarr/homarr)
 
-## Installation
-### Myanonymouse
+### Installation
+#### Myanonymouse
 
+<!-- RASPBERRY PI -->
+# Raspberry Pi
+### PiVPN
+Using wireguard with Mullvad VPN
+
+### Homebridge
+Control home using VeSync Plugs
+
+### PiHole
+Network-wide ad blocker
+Add whitelist file
+add blacklist file
+link to other lists
+Update
+```
+pihole -up
+```
+
+### [Airconnect](https://github.com/philippe44/AirConnect)
+Turns Google Home Minis into Airplay targets
+- Service autostarts on reboot
+
+### Unattended-Upgrades
+
+### Other Commands
+Update & Upgrade
+```
+sudo apt update && sudo apt upgrade
+```
+Config
+```
+sudo raspi-config
+```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
