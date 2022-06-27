@@ -97,24 +97,21 @@ Docker Images used in my homelab setup.
 - hotio.dev
 
 ### Docker Containers
-Docker Images used in my homelab setup.
-
 - [qBittorrent](https://hub.docker.com/r/markusmcnugen/qbittorrentvpn)
-- [qBitManage]
-- [SABnzbd]
-- [Plex]
-- [Tautulli]
-- [Calibre]
-- [Jackett]
-- [Radarr]
-- [Sonarr]
-- [Lidarr]
-- [Readarr]
-- [Prowlarr]
-- [Flaresolverr]
-- [Overseerr]
-- [Organizr]
-- [Homarr]
+- [qBitManage](https://hotio.dev/containers/qbitmanage/)
+- [SABnzbd](https://hotio.dev/containers/sabnzbd/)
+- [Tautulli](https://hub.docker.com/r/linuxserver/tautulli)
+- [Calibre](https://hub.docker.com/r/linuxserver/calibre-web)
+- [Jackett](https://hub.docker.com/r/linuxserver/jackett)
+- [Radarr](https://hotio.dev/containers/radarr/)
+- [Sonarr](https://hotio.dev/containers/sonarr/)
+- [Lidarr](https://hotio.dev/containers/lidarr/)
+- [Readarr](https://hotio.dev/containers/readarr/)
+- [Prowlarr](https://hotio.dev/containers/prowlarr/)
+- [Flaresolverr](https://hub.docker.com/r/flaresolverr/flaresolverr)
+- [Overseerr](https://hotio.dev/containers/overseerr/)
+- [Organizr](https://hub.docker.com/r/organizr/organizr)
+- [Homarr](https://hub.docker.com/r/homarr/homarr)
 
 ### Installation
 
