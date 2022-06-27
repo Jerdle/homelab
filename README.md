@@ -144,9 +144,13 @@ Control home using VeSync Plugs
 
 ### PiHole
 Network-wide ad blocker
+<br>
 Add whitelist file
+<br>
 add blacklist file
+<br>
 link to other lists
+<br>
 Update
 <br>
 `pihole -up`
