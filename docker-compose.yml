@@ -1,0 +1,291 @@
+version: "3.8"
+services:
+
+# Radarr
+  radarr:
+    container_name: radarr
+    image: cr.hotio.dev/hotio/radarr:latest
+    restart: unless-stopped
+    labels:
+      - org.hotio.pullio.update=true
+      - org.hotio.pullio.notify=true
+      - org.hotio.pullio.discord.webhook=${PULLIO_DISCORD_WEBHOOK}
+    ports:
+      - 7878:7878
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - UMASK=${UMASK}
+      - TZ=${TZ}
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - ${CONFIG}/radarr:/config
+      - ${DATA}:/data
+
+# Sonarr
+  sonarr:
+    container_name: sonarr
+    image: cr.hotio.dev/hotio/sonarr:latest
+    restart: unless-stopped
+    labels:
+      - org.hotio.pullio.update=true
+      - org.hotio.pullio.notify=true
+      - org.hotio.pullio.discord.webhook=${PULLIO_DISCORD_WEBHOOK}
+    ports:
+      - 8989:8989
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - UMASK=${UMASK}
+      - TZ=${TZ}
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - ${CONFIG}/sonarr:/config
+      - ${DATA}:/data
+
+# Prowlarr
+  prowlarr:
+      container_name: prowlarr
+      image: cr.hotio.dev/hotio/prowlarr:testing
+      #network_mode: "container:gluetun"
+      labels:
+        - org.hotio.pullio.update=true
+        - org.hotio.pullio.notify=true
+        - org.hotio.pullio.discord.webhook=${PULLIO_DISCORD_WEBHOOK}
+      ports:
+        - 9696:9696
+      environment:
+        - PUID=${PUID}
+        - PGID=${PGID}
+        - UMASK=${UMASK}
+        - TZ=${TZ}
+      volumes:
+        - ${CONFIG}/prowlarr:/config
+
+# Overseerr
+  overseerr:
+      container_name: overseerr
+      image: cr.hotio.dev/hotio/overseerr:latest
+      labels:
+        - org.hotio.pullio.update=true
+        - org.hotio.pullio.notify=true
+        - org.hotio.pullio.discord.webhook=${PULLIO_DISCORD_WEBHOOK}
+      ports:
+        - 5055:5055
+      environment:
+        - PUID=${PUID}
+        - PGID=${PGID}
+        - UMASK=${UMASK}
+        - TZ=${TZ}
+      volumes:
+        - ${CONFIG}/overseerr:/config
+
+# Lidarr
+  lidarr:
+    container_name: lidarr
+    image: cr.hotio.dev/hotio/lidarr:latest
+    labels:
+      - org.hotio.pullio.update=true
+      - org.hotio.pullio.notify=true
+      - org.hotio.pullio.discord.webhook=${PULLIO_DISCORD_WEBHOOK}
+    ports:
+      - 8686:8686
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - UMASK=${UMASK}
+      - TZ=${TZ}
+    volumes:
+      - ${CONFIG}/lidarr:/config
+      - ${DATA}:/data
+
+# Readarr
+  readarr:
+      container_name: readarr
+      image: cr.hotio.dev/hotio/readarr:testing
+      labels:
+        - org.hotio.pullio.update=true
+        - org.hotio.pullio.notify=true
+        - org.hotio.pullio.discord.webhook=${PULLIO_DISCORD_WEBHOOK}
+      ports:
+        - 8787:8787
+      environment:
+        - PUID=${PUID}
+        - PGID=${PGID}
+        - UMASK=${UMASK}
+        - TZ=${TZ}
+      volumes:
+        - ${CONFIG}/readarr:/config
+        - ${DATA}:/data
+
+# Calibre
+  calibre:
+    image: lscr.io/linuxserver/calibre:latest
+    container_name: calibre
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - UMASK=${UMASK}
+      - TZ=${TZ}
+#      - PASSWORD= #optional
+#      - CLI_ARGS= #optional
+    volumes:
+      - ${CONFIG}/calibre:/config
+      - ${DATA}:/data
+    ports:
+      - 9393:8080
+      - 8484:8081
+    restart: unless-stopped
+
+# Flaresolverr
+  flaresolver:
+    image: ghcr.io/flaresolverr/flaresolverr:latest
+    container_name: flaresolverr
+    restart: unless-stopped
+    ports:
+      - 8191:8191
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - UMASK=${UMASK}
+      - TZ=${TZ}
+      - LOG_LEVEL=info
+    volumes:
+      - ${CONFIG}/flaresolverr:/config
+
+# qBittorrent
+  qbittorrent:
+      container_name: qbittorrent
+      image: markusmcnugen/qbittorrentvpn
+      cap_add:
+        - NET_ADMIN
+      devices:
+        - /dev/net/tun
+      ports:
+        - 8080:8080
+        - 8999:8999
+        - 8999:8999/udp
+        #- 57001:57001 #VPN Port
+      environment:
+        - PUID=${PUID}
+        - PGID=${PGID}
+        - UMASK=${UMASK}
+        - TZ=${TZ}
+        - VPN_ENABLED=yes
+        - LAN_NETWORK=192.168.1.0/24
+        - INCOMING_PORT_ENV=57001
+      volumes:
+        - ${CONFIG}/qbittorrent:/config
+        - ${DATA}/torrents:/data/torrents
+      restart: unless-stopped
+
+# Qbit Manager
+  qbitmanage:
+      container_name: qbitmanage
+      image: cr.hotio.dev/hotio/qbitmanage
+      restart: unless-stopped
+      labels:
+        - org.hotio.pullio.update=true
+        - org.hotio.pullio.notify=true
+        - org.hotio.pullio.discord.webhook=${PULLIO_DISCORD_WEBHOOK}
+      environment:
+        - PUID=${PUID}
+        - PGID=${PGID}
+        - UMASK=${UMASK}
+        - TZ=${TZ}
+        - QBT_SCHEDULE=30
+        - QBT_TAG_UPDATE=true
+        - QBT_LOG_LEVEL=DEBUG
+      volumes:
+        - ${CONFIG}/qbitmanage:/config
+        - ${DATA}/torrents:/data/torrents
+
+# SABnzb
+  sabnzbd:
+      container_name: sabnzbd
+      image: cr.hotio.dev/hotio/sabnzbd
+      ports:
+        - 9595:8080
+      labels:
+        - org.hotio.pullio.update=true
+        - org.hotio.pullio.notify=true
+        - org.hotio.pullio.discord.webhook=${PULLIO_DISCORD_WEBHOOK}
+      environment:
+        - PUID=${PUID}
+        - PGID=${PGID}
+        - UMASK=${UMASK}
+        - TZ=${TZ}
+      volumes:
+        - /volume1/docker/sabnzb:/config
+        - /volume1/data/usenet:/data/usenet
+      restart: unless-stopped
+
+# Homarr
+  homarr:
+      container_name: homarr
+      image: ghcr.io/ajnart/homarr:latest
+      restart: unless-stopped
+      volumes:
+        - ${CONFIG}/homarr:/app/data/configs
+        - ${CONFIG}/homarr/icons:/app/public/icons
+      ports:
+        - 7575:7575
+      environment:
+        - PUID=${PUID}
+        - PGID=${PGID}
+        - UMASK=${UMASK}
+        - TZ=${TZ}
+
+# Organizr
+  organizr:
+      container_name: organizr
+      image: organizr/organizr
+      restart: unless-stopped
+      volumes:
+        - ${CONFIG}/organizr:/config
+      ports:
+        - 9999:80
+      environment:
+        - PUID=${PUID}
+        - PGID=${PGID}
+        - UMASK=${UMASK}
+        - TZ=${TZ}
+
+# Grafana + Prometheus + SNMP Exporter
+  # grafana:
+  #     container_name: grafana
+  #     image: grafana/grafana
+  #     restart: unless-stopped
+  #     environment:
+  #       - PUID=${PUID}
+  #       - PGID=${PGID}
+  #       - UMASK=${UMASK}
+  #       - TZ=${TZ}
+  #     ports:
+  #       - 3000:3000
+  #     volumes:
+  #       - ${CONFIG}/grafana:/config
+  #
+  # prometheus:
+  #   image: prom/prometheus
+  #   volumes:
+  #     - ${CONFIG}/prometheus:/etc/prometheus/
+  #     - prometheus_data:/prometheus
+  #   command:
+  #     - '-config.file=/etc/prometheus/prometheus.yml'
+  #     - '-storage.local.path=/prometheus'
+  #   expose:
+  #     - 9090
+  #   ports:
+  #     - 9090:9090
+  #   depends_on:
+  #     #- cadvisor
+  #     - snmp-exporter
+  #     #- node-exporter
+  #
+  # snmp-exporter:
+  #   image: prom/snmp_exporter
+  #   volumes:
+  #     - ${CONFIG}/snmp:/etc/snmp_exporter/
+  #   expose:
+  #     - 9116
