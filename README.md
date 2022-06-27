@@ -85,20 +85,35 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+<!-- Synology Packages -->
+## Docker Images
+Docker Images used in my homelab setup.
 
-<!-- GETTING STARTED -->
-## Getting Started
+<!-- Docker -->
+## Docker Admin
+- Portainer
+- Docker Hub
+- hotio.dev
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+## Docker Containers
+Docker Images used in my homelab setup.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+- qBittorrent(https://hub.docker.com/r/markusmcnugen/qbittorrentvpn)
+- qBitManage
+- SABnzbd
+- Plex
+- Tautulli
+- Calibre
+- Jackett
+- Radarr
+- Sonarr
+- Lidarr
+- Readarr
+- Prowlarr
+- Flaresolverr
+- Overseerr
+- Organizr
+- Homarr
 
 ### Installation
 
@@ -117,19 +132,6 @@ This is an example of how to list things you need to use the software and how to
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -191,7 +193,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 * []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
--->
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
