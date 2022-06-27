@@ -99,7 +99,11 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 ```
 bash /volume1/Scripts/syno-plex-update.sh
 ```
-[Pullio](https://hotio.dev/pullio/)
+[Pullio](https://hotio.dev/pullio/) - Updates arr apps from hotio
+```
+/usr/local/bin/pullio > /volume1/docker/pullio/pullio.log 2>&1
+```
+
 
 <!-- DOCKER -->
 # Docker
