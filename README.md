@@ -146,7 +146,7 @@ Control home using VeSync Plugs
 Network-wide ad blocker
 <br>
 #### Lists
-- [Whitelist file](whitelist)
+- [![Whitelist file](whitelist)]
 - Blacklist file
 - [Firebog Blocklists](https://firebog.net/)
 - [anudeepND Whitelist](https://github.com/anudeepND/whitelist)
