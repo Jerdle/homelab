@@ -36,7 +36,7 @@
 
 
 
-<!-- TABLE OF CONTENTS
+<!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -60,7 +60,7 @@
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
-</details> -->
+</details>
 
 
 
@@ -83,16 +83,30 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 <!-- SYNOLOGY -->
-# Synology
-- [Plex](https://forums.plex.tv/t/synology-faq-questions-answers-and-a-few-how-tos/490215)
-- Synology Photos for iOS backup
+# Synology DS220+
+- [Plex](https://forums.plex.tv/t/synology-faq-questions-answers-and-a-few-how-tos/490215) native install w/Plex Pass for Hardware Acceleration
+- Docker
+
+#### Backups
+- Movies ----insert list of all
+- TV Shows
+- Time Machine
+- iOS Photos (Synology Photos)
+- iCloud Drive
+
+### Scheduled Tasks
+[Plex Auto Updater](https://github.com/YuriyGuts/syno-plex-update)
+```
+bash /volume1/Scripts/syno-plex-update.sh
+```
+[Pullio](https://hotio.dev/pullio/)
 
 <!-- DOCKER -->
 # Docker
 ### Docker Admin
 - Portainer
 - Docker Hub
-- hotio.dev
+- [hotio.dev](https://hotio.dev/)
 
 ### Docker Containers
 - [qBittorrent](https://hub.docker.com/r/markusmcnugen/qbittorrentvpn)
@@ -108,12 +122,13 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 - [Prowlarr](https://hotio.dev/containers/prowlarr/)
 - [Flaresolverr](https://hub.docker.com/r/flaresolverr/flaresolverr)
 - [Overseerr](https://hotio.dev/containers/overseerr/)
-- [Nginx Reverse Proxy]{(https://nginxproxymanager.com/)
+- [Nginx Reverse Proxy](https://nginxproxymanager.com/)
 - [Organizr](https://hub.docker.com/r/organizr/organizr)
 - [Homarr](https://hub.docker.com/r/homarr/homarr)
 
 ### Installation
 #### Myanonymouse
+
 
 <!-- RASPBERRY PI -->
 # Raspberry Pi
@@ -132,7 +147,6 @@ Update
 ```
 pihole -up
 ```
-
 ### [Airconnect](https://github.com/philippe44/AirConnect)
 Turns Google Home Minis into Airplay targets
 - Service autostarts on reboot
@@ -154,7 +168,7 @@ sudo raspi-config
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
+- Configure Grafana + Prometheus for dashboards
 - [ ] Feature 2
 - [ ] Feature 3
     - [ ] Nested Feature
