@@ -147,7 +147,9 @@ When qBittorrent is restarted and given a new IP address, Myanonymouse must run 
 3. Get the cookie
 4. Inside the qBittorrent terminal, open a bash session and run the below script with the cookie
 <br>
-`curl -c /path/docker/persists/mam.cookies -b 'mam_id=long________session_______string' https://t.myanonamouse.net/json/dynamicSeedbox.php`
+```
+curl -c /path/docker/persists/mam.cookies -b 'mam_id=long________session_______string' https://t.myanonamouse.net/json/dynamicSeedbox.php
+```
 <br>
 Expected result
 `{"Success":true,"msg":"Completed"}`
