@@ -76,7 +76,6 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 ## Built With
-
 * [Synology DS220+](https://www.synology.com/en-us/products/DS220+)
 * [Docker](https://www.docker.com/)
 * [Raspberry Pi 4](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/?variant=raspberry-pi-4-model-b-4gb)
@@ -84,13 +83,14 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 <!-- SYNOLOGY -->
 # Synology DS220+
-- [Plex](https://forums.plex.tv/t/synology-faq-questions-answers-and-a-few-how-tos/490215) native install w/Plex Pass for Hardware Acceleration
+### Native
+- [Plex](https://forums.plex.tv/t/synology-faq-questions-answers-and-a-few-how-tos/490215)
 - Docker
 
 ### Backups
-- Movies ----insert list of all
-- TV Shows
-- Time Machine
+- [Movies](data/movies.rtf)
+- [TV Shows](data/tvshows.rtf)
+- macOS Time Machine
 - iOS Photos (Synology Photos)
 - iCloud Drive
 
@@ -104,12 +104,11 @@ bash /volume1/Scripts/syno-plex-update.sh
 /usr/local/bin/pullio > /volume1/docker/pullio/pullio.log 2>&1
 ```
 
-
 <!-- DOCKER -->
 # Docker
 #### Docker Admin
-- Portainer
-- Docker Hub
+- [Portainer](http://192.168.1.23:9000/#!/home)
+- [Docker Hub](https://hub.docker.com/)
 - [hotio.dev](https://hotio.dev/)
 
 ### Docker Containers
@@ -131,16 +130,35 @@ bash /volume1/Scripts/syno-plex-update.sh
 - [Homarr](https://hub.docker.com/r/homarr/homarr)
 
 ### Installation
-#### Myanonymouse
+docker-compose
+<br>
+`sudo docker-compose up -d`
 
+system prune
+<br>
+`sudo docker system prune --all --volumes`
+
+
+#### Myanonymouse
+to-do
 
 <!-- RASPBERRY PI -->
 # Raspberry Pi
 ### PiVPN
-Using wireguard with Mullvad VPN
+Wireguard with Mullvad VPN
+<br>
+Add
+<br>
+`pivpn -a`
+
+QR Code
+<br>
+`pivpn -qr`
 
 ### Homebridge
-Control home using VeSync Plugs
+Compatible w/Apple Homekit
+- [homebridge-vesync](https://github.com/mickgiles/homebridge-vesync#readme)
+- [Homebridge to Google Smart Home](https://github.com/oznu/homebridge-gsh#readme)
 
 ### PiHole
 Network-wide ad blocker
@@ -151,7 +169,6 @@ Network-wide ad blocker
 - [Firebog Blocklists](https://firebog.net/)
 - [anudeepND Whitelist](https://github.com/anudeepND/whitelist)
 <br>
-
 Update
 <br>
 `pihole -up`
