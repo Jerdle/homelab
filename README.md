@@ -87,7 +87,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 - [Plex](https://forums.plex.tv/t/synology-faq-questions-answers-and-a-few-how-tos/490215) native install w/Plex Pass for Hardware Acceleration
 - Docker
 
-#### Backups
+### Backups
 - Movies ----insert list of all
 - TV Shows
 - Time Machine
@@ -107,7 +107,7 @@ bash /volume1/Scripts/syno-plex-update.sh
 
 <!-- DOCKER -->
 # Docker
-### Docker Admin
+#### Docker Admin
 - Portainer
 - Docker Hub
 - [hotio.dev](https://hotio.dev/)
@@ -148,9 +148,9 @@ Add whitelist file
 add blacklist file
 link to other lists
 Update
-```
-pihole -up
-```
+<br>
+`pihole -up`
+
 ### [Airconnect](https://github.com/philippe44/AirConnect)
 Turns Google Home Minis into Airplay targets
 - Service autostarts on reboot
@@ -160,13 +160,12 @@ Scheduled updates and upgrades
 
 ### Other Commands
 Update & Upgrade
-```
-sudo apt update && sudo apt upgrade
-```
+<br>
+`sudo apt update && sudo apt upgrade`
+
 Config
-```
-sudo raspi-config
-```
+<br>
+`sudo raspi-config`
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ROADMAP -->
