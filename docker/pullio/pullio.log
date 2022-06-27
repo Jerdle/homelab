@@ -1,0 +1,150 @@
+Running with "DEBUG=" and "TAG=".
+Current version: 0.0.4
+Latest version: 0.0.4
+calibre: Checking...
+flaresolverr: Checking...
+homarr: Checking...
+jackett: Checking...
+lidarr: Checking...
+lidarr: Pulling image...
+Pulling lidarr ... 
+Pulling lidarr ... pulling from hotio/lidarr
+Pulling lidarr ... digest: sha256:78f38d5a3d3f587b1b...
+Pulling lidarr ... status: image is up to date for c...
+Pulling lidarr ... done
+nginx: Checking...
+organizr: Checking...
+overseerr: Checking...
+overseerr: Pulling image...
+Pulling overseerr ... 
+Pulling overseerr ... pulling from hotio/overseerr
+Pulling overseerr ... digest: sha256:30410bdbc260c4df43...
+Pulling overseerr ... status: image is up to date for c...
+Pulling overseerr ... done
+portainer: Checking...
+prowlarr: Checking...
+prowlarr: Pulling image...
+Pulling prowlarr ... 
+Pulling prowlarr ... pulling from hotio/prowlarr
+Pulling prowlarr ... already exists
+Pulling prowlarr ... already exists
+Pulling prowlarr ... already exists
+Pulling prowlarr ... already exists
+Pulling prowlarr ... already exists
+Pulling prowlarr ... already exists
+Pulling prowlarr ... pulling fs layer
+Pulling prowlarr ... pulling fs layer
+Pulling prowlarr ... downloading (80.3%)
+Pulling prowlarr ... downloading (100.0%)
+Pulling prowlarr ... verifying checksum
+Pulling prowlarr ... download complete
+Pulling prowlarr ... downloading (0.9%)
+Pulling prowlarr ... downloading (3.8%)
+Pulling prowlarr ... downloading (6.7%)
+Pulling prowlarr ... downloading (9.5%)
+Pulling prowlarr ... downloading (12.4%)
+Pulling prowlarr ... downloading (15.3%)
+Pulling prowlarr ... downloading (18.2%)
+Pulling prowlarr ... downloading (21.0%)
+Pulling prowlarr ... downloading (23.9%)
+Pulling prowlarr ... downloading (26.8%)
+Pulling prowlarr ... downloading (29.6%)
+Pulling prowlarr ... downloading (32.5%)
+Pulling prowlarr ... downloading (35.4%)
+Pulling prowlarr ... downloading (38.2%)
+Pulling prowlarr ... downloading (41.1%)
+Pulling prowlarr ... downloading (43.9%)
+Pulling prowlarr ... downloading (46.8%)
+Pulling prowlarr ... downloading (49.6%)
+Pulling prowlarr ... downloading (52.5%)
+Pulling prowlarr ... downloading (55.4%)
+Pulling prowlarr ... downloading (58.2%)
+Pulling prowlarr ... downloading (61.1%)
+Pulling prowlarr ... downloading (64.0%)
+Pulling prowlarr ... downloading (66.8%)
+Pulling prowlarr ... downloading (69.7%)
+Pulling prowlarr ... downloading (72.6%)
+Pulling prowlarr ... downloading (75.4%)
+Pulling prowlarr ... downloading (78.3%)
+Pulling prowlarr ... downloading (81.2%)
+Pulling prowlarr ... downloading (84.0%)
+Pulling prowlarr ... downloading (86.9%)
+Pulling prowlarr ... downloading (89.8%)
+Pulling prowlarr ... downloading (92.6%)
+Pulling prowlarr ... downloading (95.5%)
+Pulling prowlarr ... downloading (98.4%)
+Pulling prowlarr ... download complete
+Pulling prowlarr ... extracting (1.0%)
+Pulling prowlarr ... extracting (4.9%)
+Pulling prowlarr ... extracting (7.9%)
+Pulling prowlarr ... extracting (11.9%)
+Pulling prowlarr ... extracting (14.8%)
+Pulling prowlarr ... extracting (18.8%)
+Pulling prowlarr ... extracting (22.8%)
+Pulling prowlarr ... extracting (25.7%)
+Pulling prowlarr ... extracting (28.7%)
+Pulling prowlarr ... extracting (31.7%)
+Pulling prowlarr ... extracting (34.6%)
+Pulling prowlarr ... extracting (38.6%)
+Pulling prowlarr ... extracting (42.5%)
+Pulling prowlarr ... extracting (45.5%)
+Pulling prowlarr ... extracting (49.5%)
+Pulling prowlarr ... extracting (53.4%)
+Pulling prowlarr ... extracting (57.4%)
+Pulling prowlarr ... extracting (61.3%)
+Pulling prowlarr ... extracting (65.3%)
+Pulling prowlarr ... extracting (68.3%)
+Pulling prowlarr ... extracting (72.2%)
+Pulling prowlarr ... extracting (76.2%)
+Pulling prowlarr ... extracting (80.1%)
+Pulling prowlarr ... extracting (83.1%)
+Pulling prowlarr ... extracting (86.1%)
+Pulling prowlarr ... extracting (90.0%)
+Pulling prowlarr ... extracting (94.0%)
+Pulling prowlarr ... extracting (97.0%)
+Pulling prowlarr ... extracting (100.0%)
+Pulling prowlarr ... pull complete
+Pulling prowlarr ... extracting (100.0%)
+Pulling prowlarr ... extracting (100.0%)
+Pulling prowlarr ... pull complete
+Pulling prowlarr ... digest: sha256:aac63bb3410f835528...
+Pulling prowlarr ... status: downloaded newer image fo...
+Pulling prowlarr ... done
+prowlarr: Updating container...
+Found orphan containers (nginx) for this project. If you removed or renamed this service in your compose file, you can run this command with the --remove-orphans flag to clean it up.
+Recreating prowlarr ... 
+Recreating prowlarr ... done
+prowlarr: Sending discord notification...
+qbitmanage: Checking...
+qbittorrent: Checking...
+radarr: Checking...
+radarr: Pulling image...
+Pulling radarr ... 
+Pulling radarr ... pulling from hotio/radarr
+Pulling radarr ... digest: sha256:c627386d26e9179a9b...
+Pulling radarr ... status: image is up to date for c...
+Pulling radarr ... done
+readarr: Checking...
+readarr: Pulling image...
+Pulling readarr ... 
+Pulling readarr ... pulling from hotio/readarr
+Pulling readarr ... digest: sha256:e30cfd0493ebb624d2...
+Pulling readarr ... status: image is up to date for c...
+Pulling readarr ... done
+sabnzbd: Checking...
+sonarr: Checking...
+sonarr: Pulling image...
+Pulling sonarr ... 
+Pulling sonarr ... pulling from hotio/sonarr
+Pulling sonarr ... digest: sha256:6c310cb8f418dd82d3...
+Pulling sonarr ... status: image is up to date for c...
+Pulling sonarr ... done
+tautulli: Checking...
+Pruning docker images...
+Deleted Images:
+untagged: cr.hotio.dev/hotio/prowlarr@sha256:6e3909d089e180afe9f337cd814fb8c8d373c092244be2e6e7539971abb0781f
+deleted: sha256:7b8184c5df060b6369dd41d66c3da5bc342835f8640d87f613a439b00cafd898
+deleted: sha256:fa98d6cba3fa0997bb45d89be3b210051829098986a94d91f85c5a9f05566560
+deleted: sha256:1e19015bb9b4dec67ed866a4fdb8306b40c836469aeffe16f5c09965c2d0f005
+
+Total reclaimed space: 132.1MB

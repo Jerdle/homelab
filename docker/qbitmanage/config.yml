@@ -1,0 +1,136 @@
+# This is an example configuration file that documents all the options.
+# It will need to be modified for your specific use case.
+# Please refer to the link below for more details on how to set up the configuration file
+# https://github.com/StuffAnThings/qbit_manage/wiki/Config-Setup
+
+# qBittorrent parameters
+qbt:
+  host: 192.168.1.23:8080
+  user: admin
+  pass: adminadmin
+settings:
+  force_auto_tmm: false
+  tracker_error_tag: issue
+  ignoreTags_OnUpdate: # When running tag-update function, it will update torrent tags for a given torrent even if the torrent has one or more of the tags defined here.
+    - noHL
+    - issue
+    - cross-seed
+directory:
+  # Do not remove these
+  # Cross-seed var: </your/path/here/>  # Output directory of cross-seed
+  # root_dir var: </your/path/here/>  # Root downloads directory used to check for orphaned files, noHL, and RecycleBin.
+  # <OPTIONAL> remote_dir var: </your/path/here/>  # Path of docker host mapping of root_dir.
+  # Must be set if you're running qbit_manage locally and qBittorrent/cross_seed is in a docker
+  # <OPTIONAL> recycle_bin var: </your/path/here/>   # Path of the RecycleBin folder. Default location is set to remote_dir/.RecycleBin
+  # <OPTIONAL> torrents_dir var: </your/path/here/>  # Path of the your qbittorrent torrents directory. Required for `save_torrents` attribute in recyclebin
+
+  #cross_seed: /your/path/here/
+  root_dir: /data/
+  remote_dir: /data/
+  cross_seed:
+  torrents_dir:
+cat:
+  torrents: /data/torrents/
+tracker:
+  # <Tracker URL Keyword>:    # <MANDATORY> This is the keyword in the tracker url
+  # <MANDATORY> Set tag name. Can be a list of tags or a single tag
+  #   tag: <Tag Name>
+  # <OPTIONAL> Will set the torrent Maximum share ratio until torrent is stopped from seeding/uploading. -2 means the global limit should be used, -1 means no limit.
+  #   max_ratio: 5.0
+  # <OPTIONAL> Will set the torrent Maximum seeding time (min) until torrent is stopped from seeding. -2 means the global limit should be used, -1 means no limit.
+  #   max_seeding_time: 129600
+  # <OPTIONAL> Will limit the upload speed KiB/s (KiloBytes/second) (-1 sets the limit to infinity)
+  #   limit_upload_speed: 150
+  # <OPTIONAL> Set this to the notifiarr react name. This is used to add indexer reactions to the notifications sent by Notifiarr
+  #   notifiarr: <notifiarr indexer>
+  animebytes.tv:
+    tag: AnimeBytes
+    notifiarr: animebytes
+  avistaz:
+    tag:
+      - Avistaz
+      - tag2
+      - tag3
+    max_ratio: 5.0
+    max_seeding_time: 129600
+    limit_upload_speed: 150
+    notifiarr: avistaz
+  beyond-hd:
+    tag: [Beyond-HD, tag2, tag3]
+    notifiarr: beyondhd
+  blutopia:
+    tag: Blutopia
+    notifiarr: blutopia
+  cartoonchaos:
+    tag: CartoonChaos
+  digitalcore:
+    tag: DigitalCore
+    max_ratio: 5.0
+    notifiarr: digitalcore
+  gazellegames:
+    tag: GGn
+    limit_upload_speed: 150
+  hdts:
+    tag: HDTorrents
+    max_seeding_time: 129600
+  landof.tv:
+    tag: BroadcasTheNet
+    notifiarr: broadcasthenet
+  myanonamouse:
+    tag: MaM
+  passthepopcorn:
+    tag: PassThePopcorn
+    notifiarr: passthepopcorn
+  privatehd:
+    tag: PrivateHD
+    notifiarr:
+  tleechreload:
+    tag: TorrentLeech
+    notifiarr: torrentleech
+  torrentdb:
+    tag: TorrentDB
+    notifiarr: torrentdb
+  torrentleech:
+    tag: TorrentLeech
+    notifiarr: torrentleech
+  tv-vault:
+    tag: TV-Vault
+  tracker.openbittorrent.com:
+    tag: tracker.openbittorrent.com
+  tracker.ipv6tracker.ru:
+    tag: tracker.ipv6tracker.ru
+  share.camoe.cn:
+    tag: share.camoe.cn
+  tracker.tfile.co:
+    tag: tracker.tfile.co
+  tracker.trackerfix.com:
+    tag: tracker.trackerfix.com
+  vps02.net.orel.ru:
+    tag: vps02.net.orel.ru
+  bt1.archive.org:
+    tag: bt1.archive.org
+  p4p.arenabg.com:
+    tag: p4p.arenabg.com
+  inferno.demonoid.is:
+    tag: inferno.demonoid.is
+recyclebin:
+  enabled: false
+  empty_after_x_days:
+  save_torrents: false
+  split_by_category: false
+orphaned:
+  exclude_patterns:
+webhooks:
+  error:
+  run_start:
+  run_end:
+  function:
+    cross_seed:
+    recheck:
+    cat_update:
+    tag_update:
+    rem_unregistered:
+    tag_tracker_error:
+    rem_orphaned:
+    tag_nohardlinks:
+    empty_recyclebin:

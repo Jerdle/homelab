@@ -1,0 +1,676 @@
+(N) 2022-06-12T19:23:32 - qBittorrent v4.3.8 started
+(N) 2022-06-12T19:23:32 - Using config directory: /config/qBittorrent/config/
+(I) 2022-06-12T19:23:32 - Trying to listen on: 0.0.0.0:47909,[::]:47909
+(N) 2022-06-12T19:23:32 - Peer ID: -qB4380-
+(N) 2022-06-12T19:23:32 - HTTP User-Agent is 'qBittorrent/4.3.8'
+(I) 2022-06-12T19:23:32 - DHT support [ON]
+(I) 2022-06-12T19:23:32 - Local Peer Discovery support [ON]
+(I) 2022-06-12T19:23:32 - PeX support [ON]
+(I) 2022-06-12T19:23:32 - Anonymous mode [OFF]
+(I) 2022-06-12T19:23:32 - Encryption support [ON]
+(W) 2022-06-12T19:23:32 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2022-06-12T19:23:33 - Using built-in Web UI.
+(N) 2022-06-12T19:23:33 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2022-06-12T19:23:33 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-06-12T19:23:33 - Successfully listening on IP: 127.0.0.1, port: TCP/47909
+(I) 2022-06-12T19:23:33 - Successfully listening on IP: 127.0.0.1, port: UDP/47909
+(I) 2022-06-12T19:23:33 - Successfully listening on IP: 172.18.0.12, port: TCP/47909
+(I) 2022-06-12T19:23:33 - Successfully listening on IP: 172.18.0.12, port: UDP/47909
+(I) 2022-06-12T19:23:33 - Detected external IP: 205.144.210.203
+(I) 2022-06-12T19:23:33 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue May 31 20:25:04 2022.
+(I) 2022-06-12T19:23:33 - Successfully updated IP geolocation database.
+(N) 2022-06-12T19:26:59 - qBittorrent v4.3.8 started
+(N) 2022-06-12T19:26:59 - Using config directory: /config/qBittorrent/config/
+(I) 2022-06-12T19:26:59 - Trying to listen on: 0.0.0.0:47909,[::]:47909
+(N) 2022-06-12T19:26:59 - Peer ID: -qB4380-
+(N) 2022-06-12T19:26:59 - HTTP User-Agent is 'qBittorrent/4.3.8'
+(I) 2022-06-12T19:26:59 - DHT support [ON]
+(I) 2022-06-12T19:26:59 - Local Peer Discovery support [ON]
+(I) 2022-06-12T19:26:59 - PeX support [ON]
+(I) 2022-06-12T19:26:59 - Anonymous mode [OFF]
+(I) 2022-06-12T19:26:59 - Encryption support [ON]
+(I) 2022-06-12T19:26:59 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue May 31 20:25:04 2022.
+(N) 2022-06-12T19:26:59 - Using built-in Web UI.
+(N) 2022-06-12T19:26:59 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2022-06-12T19:26:59 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-06-12T19:26:59 - System network status changed to ONLINE
+(I) 2022-06-12T19:26:59 - Successfully listening on IP: 127.0.0.1, port: TCP/47909
+(I) 2022-06-12T19:26:59 - Successfully listening on IP: 127.0.0.1, port: UDP/47909
+(I) 2022-06-12T19:26:59 - Successfully listening on IP: 172.18.0.12, port: TCP/47909
+(I) 2022-06-12T19:26:59 - Successfully listening on IP: 172.18.0.12, port: UDP/47909
+(I) 2022-06-12T19:26:59 - Detected external IP: 205.144.210.203
+(N) 2022-06-12T19:27:49 - WebAPI login success. IP: ::ffff:172.18.0.1
+(N) 2022-06-12T19:42:16 - qBittorrent v4.3.8 started
+(N) 2022-06-12T19:42:16 - Using config directory: /config/qBittorrent/config/
+(I) 2022-06-12T19:42:16 - Trying to listen on: 0.0.0.0:47909,[::]:47909
+(N) 2022-06-12T19:42:16 - Peer ID: -qB4380-
+(N) 2022-06-12T19:42:16 - HTTP User-Agent is 'qBittorrent/4.3.8'
+(I) 2022-06-12T19:42:16 - DHT support [ON]
+(I) 2022-06-12T19:42:16 - Local Peer Discovery support [ON]
+(I) 2022-06-12T19:42:16 - PeX support [ON]
+(I) 2022-06-12T19:42:16 - Anonymous mode [OFF]
+(I) 2022-06-12T19:42:16 - Encryption support [ON]
+(I) 2022-06-12T19:42:16 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue May 31 20:25:04 2022.
+(N) 2022-06-12T19:42:16 - Using built-in Web UI.
+(N) 2022-06-12T19:42:16 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2022-06-12T19:42:16 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-06-12T19:42:16 - Successfully listening on IP: 127.0.0.1, port: TCP/47909
+(I) 2022-06-12T19:42:16 - Successfully listening on IP: 127.0.0.1, port: UDP/47909
+(I) 2022-06-12T19:42:16 - Successfully listening on IP: 10.15.0.11, port: TCP/47909
+(I) 2022-06-12T19:42:16 - Successfully listening on IP: 10.15.0.11, port: UDP/47909
+(I) 2022-06-12T19:42:16 - Successfully listening on IP: 172.18.0.12, port: TCP/47909
+(I) 2022-06-12T19:42:16 - Successfully listening on IP: 172.18.0.12, port: UDP/47909
+(N) 2022-06-12T19:42:34 - WebAPI login success. IP: ::ffff:172.18.0.1
+(I) 2022-06-12T19:42:41 - Detected external IP: 66.115.189.130
+(N) 2022-06-12T19:43:16 - WebAPI login success. IP: ::ffff:172.18.0.1
+(N) 2022-06-12T19:43:36 - WebAPI login success. IP: ::ffff:172.18.0.1
+(N) 2022-06-12T19:44:06 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-12T19:45:36 - 'Last.Seen.Alive.2022.720p.WEBRip.800MB.x264-GalaxyRG' added to download list.
+(W) 2022-06-12T19:45:45 - File error alert. Torrent: "Last.Seen.Alive.2022.720p.WEBRip.800MB.x264-GalaxyRG". File: "/data/Last.Seen.Alive.2022.720p.WEBRip.800MB.x264-GalaxyRG[TGx]/Last.Seen.Alive.2022.720p.WEBRip.800MB.x264-GalaxyRG.mkv". Reason: Last.Seen.Alive.2022.720p.WEBRip.800MB.x264-GalaxyRG[TGx] mkdir (/data/Last.Seen.Alive.2022.720p.WEBRip.800MB.x264-GalaxyRG[TGx]/Last.Seen.Alive.2022.720p.WEBRip.800MB.x264-GalaxyRG.mkv) error: Permission denied
+(N) 2022-06-12T19:49:42 - 'b25e19efee87e36c3fdca506cfe4ba3c059fbfa4' added to download list.
+(N) 2022-06-12T19:50:03 - 'Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole)' added to download list.
+(N) 2022-06-12T19:50:17 - 'b25e19efee87e36c3fdca506cfe4ba3c059fbfa4' was removed from the transfer list.
+(N) 2022-06-12T19:51:05 - 'Papillon (1973) [1080p]' added to download list.
+(W) 2022-06-12T19:51:09 - File error alert. Torrent: "Papillon (1973) [1080p]". File: "/data/Papillon (1973) [1080p]/Papillon.1973.1080p.BluRay.x264.YIFY.mp4". Reason: Papillon (1973) [1080p] mkdir (/data/Papillon (1973) [1080p]/Papillon.1973.1080p.BluRay.x264.YIFY.mp4) error: Permission denied
+(W) 2022-06-12T19:51:23 - File error alert. Torrent: "Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole)". File: "/data/Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole)/Papillon (1973) (1080p BluRay x265 10bit Tigole).mkv". Reason: Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) mkdir (/data/Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole)/Papillon (1973) (1080p BluRay x265 10bit Tigole).mkv) error: Permission denied
+(W) 2022-06-12T19:54:11 - File error alert. Torrent: "Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole)". File: "/data/Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole)/Papillon (1973) (1080p BluRay x265 10bit Tigole).mkv". Reason: Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) mkdir (/data/Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole)/Papillon (1973) (1080p BluRay x265 10bit Tigole).mkv) error: Permission denied
+(N) 2022-06-12T19:55:05 - 'Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole)' was removed from the transfer list and hard disk.
+(N) 2022-06-12T19:55:05 - 'Last.Seen.Alive.2022.720p.WEBRip.800MB.x264-GalaxyRG' was removed from the transfer list and hard disk.
+(N) 2022-06-12T19:55:05 - 'Papillon (1973) [1080p]' was removed from the transfer list and hard disk.
+(N) 2022-06-12T19:55:40 - qBittorrent v4.3.8 started
+(N) 2022-06-12T19:55:40 - Using config directory: /config/qBittorrent/config/
+(I) 2022-06-12T19:55:41 - Trying to listen on: 0.0.0.0:47909,[::]:47909
+(N) 2022-06-12T19:55:41 - Peer ID: -qB4380-
+(N) 2022-06-12T19:55:41 - HTTP User-Agent is 'qBittorrent/4.3.8'
+(I) 2022-06-12T19:55:41 - DHT support [ON]
+(I) 2022-06-12T19:55:41 - Local Peer Discovery support [ON]
+(I) 2022-06-12T19:55:41 - PeX support [ON]
+(I) 2022-06-12T19:55:41 - Anonymous mode [OFF]
+(I) 2022-06-12T19:55:41 - Encryption support [ON]
+(I) 2022-06-12T19:55:41 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue May 31 20:25:04 2022.
+(N) 2022-06-12T19:55:41 - Using built-in Web UI.
+(N) 2022-06-12T19:55:41 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2022-06-12T19:55:41 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-06-12T19:55:41 - Successfully listening on IP: 127.0.0.1, port: TCP/47909
+(I) 2022-06-12T19:55:41 - Successfully listening on IP: 127.0.0.1, port: UDP/47909
+(I) 2022-06-12T19:55:41 - Successfully listening on IP: 172.18.0.12, port: TCP/47909
+(I) 2022-06-12T19:55:41 - Successfully listening on IP: 172.18.0.12, port: UDP/47909
+(I) 2022-06-12T19:55:41 - Detected external IP: 205.144.210.203
+(N) 2022-06-12T19:55:42 - WebAPI login success. IP: ::ffff:172.18.0.1
+(N) 2022-06-12T19:56:04 - WebAPI login success. IP: ::ffff:172.18.0.1
+(N) 2022-06-12T19:56:24 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-12T19:56:37 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-12T19:56:49 - WebAPI login success. IP: ::ffff:172.18.0.1
+(N) 2022-06-12T19:57:04 - 'Papillon (1973) [1080p]' added to download list.
+(W) 2022-06-12T19:57:08 - File error alert. Torrent: "Papillon (1973) [1080p]". File: "/data/radarr/Papillon (1973) [1080p]/Papillon.1973.1080p.BluRay.x264.YIFY.mp4". Reason: Papillon (1973) [1080p] mkdir (/data/radarr/Papillon (1973) [1080p]/Papillon.1973.1080p.BluRay.x264.YIFY.mp4) error: Permission denied
+(W) 2022-06-12T20:00:00 - File error alert. Torrent: "Papillon (1973) [1080p]". File: "/data/radarr/Papillon (1973) [1080p]/Papillon.1973.1080p.BluRay.x264.YIFY.mp4". Reason: Papillon (1973) [1080p] mkdir (/data/radarr/Papillon (1973) [1080p]/Papillon.1973.1080p.BluRay.x264.YIFY.mp4) error: Permission denied
+(N) 2022-06-12T20:08:48 - qBittorrent v4.3.8 started
+(N) 2022-06-12T20:08:48 - Using config directory: /config/qBittorrent/config/
+(I) 2022-06-12T20:08:48 - Trying to listen on: 0.0.0.0:47909,[::]:47909
+(N) 2022-06-12T20:08:48 - Peer ID: -qB4380-
+(N) 2022-06-12T20:08:48 - HTTP User-Agent is 'qBittorrent/4.3.8'
+(I) 2022-06-12T20:08:48 - DHT support [ON]
+(I) 2022-06-12T20:08:48 - Local Peer Discovery support [ON]
+(I) 2022-06-12T20:08:48 - PeX support [ON]
+(I) 2022-06-12T20:08:48 - Anonymous mode [OFF]
+(I) 2022-06-12T20:08:48 - Encryption support [ON]
+(I) 2022-06-12T20:08:48 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue May 31 20:25:04 2022.
+(N) 2022-06-12T20:08:49 - Using built-in Web UI.
+(N) 2022-06-12T20:08:49 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2022-06-12T20:08:49 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-06-12T20:08:49 - Successfully listening on IP: 127.0.0.1, port: TCP/47909
+(I) 2022-06-12T20:08:49 - Successfully listening on IP: 127.0.0.1, port: UDP/47909
+(I) 2022-06-12T20:08:49 - Successfully listening on IP: 172.18.0.2, port: TCP/47909
+(I) 2022-06-12T20:08:49 - Successfully listening on IP: 172.18.0.2, port: UDP/47909
+(N) 2022-06-12T20:08:49 - 'Papillon (1973) [1080p]' restored.
+(I) 2022-06-12T20:08:49 - Detected external IP: 205.144.210.203
+(W) 2022-06-12T20:08:53 - File error alert. Torrent: "Papillon (1973) [1080p]". File: "/data/radarr/Papillon (1973) [1080p]/Papillon.1973.1080p.BluRay.x264.YIFY.mp4". Reason: Papillon (1973) [1080p] mkdir (/data/radarr/Papillon (1973) [1080p]/Papillon.1973.1080p.BluRay.x264.YIFY.mp4) error: Permission denied
+(N) 2022-06-12T20:10:01 - WebAPI login success. IP: ::ffff:172.18.0.1
+(N) 2022-06-12T20:10:50 - WebAPI login success. IP: ::ffff:172.18.0.1
+(N) 2022-06-12T20:11:15 - WebAPI login success. IP: ::ffff:172.18.0.1
+(W) 2022-06-12T20:11:18 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.18.0.1, username: admin
+(N) 2022-06-12T20:11:21 - WebAPI login success. IP: ::ffff:172.18.0.1
+(N) 2022-06-12T20:11:22 - WebAPI login success. IP: ::ffff:172.18.0.1
+(W) 2022-06-12T20:11:43 - File error alert. Torrent: "Papillon (1973) [1080p]". File: "/data/radarr/Papillon (1973) [1080p]/Papillon.1973.1080p.BluRay.x264.YIFY.mp4". Reason: Papillon (1973) [1080p] mkdir (/data/radarr/Papillon (1973) [1080p]/Papillon.1973.1080p.BluRay.x264.YIFY.mp4) error: Permission denied
+(N) 2022-06-12T20:14:47 - 'The.Outlaws.2021.S02E02.720p.HDTV.x264-ORGANiC[eztv.re].mkv' added to download list.
+(W) 2022-06-12T20:14:50 - File error alert. Torrent: "The.Outlaws.2021.S02E02.720p.HDTV.x264-ORGANiC[eztv.re].mkv". File: "/data/The.Outlaws.2021.S02E02.720p.HDTV.x264-ORGANiC[eztv.re].mkv". Reason: The.Outlaws.2021.S02E02.720p.HDTV.x264-ORGANiC[eztv.re].mkv file_open (/data/The.Outlaws.2021.S02E02.720p.HDTV.x264-ORGANiC[eztv.re].mkv) error: Permission denied
+(W) 2022-06-12T20:16:18 - File error alert. Torrent: "Papillon (1973) [1080p]". File: "/data/radarr/Papillon (1973) [1080p]/Papillon.1973.1080p.BluRay.x264.YIFY.mp4". Reason: Papillon (1973) [1080p] mkdir (/data/radarr/Papillon (1973) [1080p]/Papillon.1973.1080p.BluRay.x264.YIFY.mp4) error: Permission denied
+(N) 2022-06-12T20:18:16 - 'Papillon (1973) [1080p]' was removed from the transfer list and hard disk.
+(N) 2022-06-12T20:18:23 - 'The.Outlaws.2021.S02E02.720p.HDTV.x264-ORGANiC[eztv.re].mkv' was removed from the transfer list and hard disk.
+(N) 2022-06-12T20:20:55 - '267171ed3cda3b6e442a9c7ed59977a10da24922' added to download list.
+(W) 2022-06-12T20:21:00 - File error alert. Torrent: "Papillon (1973) [1080p]". File: "/data/radarr/Papillon (1973) [1080p]/Papillon.1973.1080p.BluRay.x264.YIFY.mp4". Reason: Papillon (1973) [1080p] mkdir (/data/radarr/Papillon (1973) [1080p]/Papillon.1973.1080p.BluRay.x264.YIFY.mp4) error: Permission denied
+(N) 2022-06-12T20:22:09 - Enqueued to move "Papillon (1973) [1080p]" from "/data/radarr/" to "/data/torrents/radarr/".
+(N) 2022-06-12T20:22:09 - Moving "Papillon (1973) [1080p]" to "/data/torrents/radarr/"...
+(N) 2022-06-12T20:22:09 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-12T20:22:09 - "Papillon (1973) [1080p]" is successfully moved to "/data/torrents/radarr/".
+(N) 2022-06-12T20:22:39 - 'Papillon (1973) [1080p]' was removed from the transfer list and hard disk.
+(N) 2022-06-12T20:23:38 - qBittorrent v4.3.8 started
+(N) 2022-06-12T20:23:38 - Using config directory: /config/qBittorrent/config/
+(I) 2022-06-12T20:23:38 - Trying to listen on: 0.0.0.0:47909,[::]:47909
+(N) 2022-06-12T20:23:38 - Peer ID: -qB4380-
+(N) 2022-06-12T20:23:38 - HTTP User-Agent is 'qBittorrent/4.3.8'
+(I) 2022-06-12T20:23:38 - DHT support [ON]
+(I) 2022-06-12T20:23:38 - Local Peer Discovery support [ON]
+(I) 2022-06-12T20:23:38 - PeX support [ON]
+(I) 2022-06-12T20:23:38 - Anonymous mode [OFF]
+(I) 2022-06-12T20:23:38 - Encryption support [ON]
+(I) 2022-06-12T20:23:38 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue May 31 20:25:04 2022.
+(N) 2022-06-12T20:23:38 - Using built-in Web UI.
+(N) 2022-06-12T20:23:38 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2022-06-12T20:23:38 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-06-12T20:23:38 - Successfully listening on IP: 127.0.0.1, port: TCP/47909
+(I) 2022-06-12T20:23:38 - Successfully listening on IP: 127.0.0.1, port: UDP/47909
+(I) 2022-06-12T20:23:38 - Successfully listening on IP: 10.15.0.18, port: TCP/47909
+(I) 2022-06-12T20:23:38 - Successfully listening on IP: 10.15.0.18, port: UDP/47909
+(I) 2022-06-12T20:23:38 - Successfully listening on IP: 172.18.0.2, port: TCP/47909
+(I) 2022-06-12T20:23:38 - Successfully listening on IP: 172.18.0.2, port: UDP/47909
+(N) 2022-06-12T20:23:41 - WebAPI login success. IP: ::ffff:172.18.0.1
+(N) 2022-06-12T20:23:51 - WebAPI login success. IP: ::ffff:172.18.0.1
+(I) 2022-06-12T20:24:04 - Detected external IP: 66.115.189.137
+(N) 2022-06-12T20:25:03 - 'Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole)' added to download list.
+(N) 2022-06-12T20:25:19 - WebAPI login success. IP: ::ffff:172.18.0.1
+(N) 2022-06-12T20:25:30 - 'Papillon (1973) [1080p]' added to download list.
+(N) 2022-06-12T20:25:49 - 'Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole)' was removed from the transfer list and hard disk.
+(N) 2022-06-12T20:25:49 - 'Papillon (1973) [1080p]' was removed from the transfer list and hard disk.
+(N) 2022-06-12T20:26:18 - WebAPI login success. IP: ::ffff:172.18.0.1
+(N) 2022-06-12T20:26:33 - 'Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]' added to download list.
+(N) 2022-06-12T20:27:58 - Using custom Web UI. Location: "/config/vuetorrent".
+(N) 2022-06-12T20:27:58 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-12T20:28:22 - Tracker 'http://tracker.ipv6tracker.ru:80/announce' was added to torrent 'Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]'
+(N) 2022-06-12T20:28:22 - Tracker 'udp://retracker.hotplug.ru:2710/announce' was added to torrent 'Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]'
+(N) 2022-06-12T20:28:22 - Tracker 'https://tracker.fastdownload.xyz:443/announce' was added to torrent 'Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]'
+(N) 2022-06-12T20:28:22 - Tracker 'https://opentracker.xyz:443/announce' was added to torrent 'Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]'
+(N) 2022-06-12T20:28:22 - Tracker 'http://open.trackerlist.xyz:80/announce' was added to torrent 'Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]'
+(N) 2022-06-12T20:28:22 - Tracker 'udp://tracker.birkenwald.de:6969/announce' was added to torrent 'Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]'
+(N) 2022-06-12T20:28:22 - Tracker 'https://t.quic.ws:443/announce' was added to torrent 'Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]'
+(N) 2022-06-12T20:28:22 - Tracker 'https://tracker.parrotsec.org:443/announce' was added to torrent 'Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]'
+(N) 2022-06-12T20:28:22 - Tracker 'udp://tracker.supertracker.net:1337/announce' was added to torrent 'Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]'
+(N) 2022-06-12T20:28:22 - Tracker 'http://gwp2-v19.rinet.ru:80/announce' was added to torrent 'Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]'
+(N) 2022-06-12T20:28:22 - Tracker 'udp://bigfoot1942.sektori.org:6969/announce' was added to torrent 'Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]'
+(N) 2022-06-12T20:28:22 - Tracker 'udp://carapax.net:6969/announce' was added to torrent 'Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]'
+(N) 2022-06-12T20:28:22 - Tracker 'udp://retracker.akado-ural.ru:80/announce' was added to torrent 'Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]'
+(N) 2022-06-12T20:28:22 - Tracker 'udp://retracker.maxnet.ua:80/announce' was added to torrent 'Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]'
+(N) 2022-06-12T20:28:22 - Tracker 'udp://bt.dy20188.com:80/announce' was added to torrent 'Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]'
+(N) 2022-06-12T20:28:22 - Tracker 'http://0d.kebhana.mx:443/announce' was added to torrent 'Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]'
+(N) 2022-06-12T20:28:22 - Tracker 'http://tracker.files.fm:6969/announce' was added to torrent 'Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]'
+(N) 2022-06-12T20:28:22 - Tracker 'http://retracker.joxnet.ru:80/announce' was added to torrent 'Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]'
+(N) 2022-06-12T20:28:22 - Tracker 'http://tracker.moxing.party:6969/announce' was added to torrent 'Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]'
+(N) 2022-06-12T20:28:58 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-12T20:29:04 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-12T20:29:48 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-12T20:30:34 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-12T20:31:08 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-12T20:31:25 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-12T20:31:48 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-12T21:00:22 - 'The Way Back (2010) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole)' added to download list.
+(N) 2022-06-12T22:39:57 - WebAPI login success. IP: ::ffff:172.18.0.1
+(N) 2022-06-12T22:41:18 - WebAPI login success. IP: ::ffff:172.18.0.1
+(I) 2022-06-13T07:09:44 - Successfully listening on IP: 10.15.0.3, port: TCP/47909
+(I) 2022-06-13T07:09:45 - Successfully listening on IP: 10.15.0.3, port: UDP/47909
+(I) 2022-06-13T07:11:09 - Detected external IP: 66.115.189.135
+(N) 2022-06-13T07:41:21 - WebAPI login success. IP: ::ffff:172.18.0.1
+(N) 2022-06-13T07:41:49 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-13T07:41:53 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-13T07:43:04 - 'The Way Back (2010) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole)' was removed from the transfer list.
+(N) 2022-06-13T07:43:04 - 'Papillon (1973) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]' was removed from the transfer list.
+(N) 2022-06-13T08:35:02 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-13T08:35:13 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-13T09:22:41 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-13T09:24:26 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-13T09:24:29 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-13T09:25:23 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-13T09:25:24 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-13T09:29:20 - Downloading 'https://eztv.re/ep/1737/lost-s03e01-hr-hdtv-ac3-5-1-xvid-ctu/', please wait...
+(N) 2022-06-13T10:12:54 - 'Lost.S03e01-23.BDMux.720p.H264.Ita.Eng.Subs.FullSeason' added to download list.
+(N) 2022-06-13T13:24:11 - 'Colleen Hoover - Complete Collection [12 books]' added to download list.
+(N) 2022-06-13T14:09:04 - 'Coding All-in-One For Dummies by Nikhil Abraham.epub' added to download list.
+(N) 2022-06-13T14:11:11 - 'Coding All-in-One For Dummies by Nikhil Abraham.epub' was removed from the transfer list and hard disk.
+(N) 2022-06-13T14:12:04 - 'Rowling, J.K. - [Harry Potter (EN) 02] Harry Potter and the Chamber of Secrets [4135] (r1.4) [EN].epub' added to download list.
+(N) 2022-06-13T14:13:08 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-13T14:13:09 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-13T15:04:26 - 'J. K. Rowling - Harry Potter and the Deathly Hallows - Epub' added to download list.
+(N) 2022-06-13T15:04:47 - 'Rowling, J.K. - [Harry Potter (EN) 02] Harry Potter and the Chamber of Secrets [4135] (r1.4) [EN].epub' was removed from the transfer list.
+(N) 2022-06-13T15:06:28 - 'Rowling, J.K. - [Harry Potter (EN) 05] Harry Potter and the Order of the Phoenix [4222] (r1.2) [EN].epub' added to download list.
+(N) 2022-06-13T15:08:33 - 'J. K. Rowling - Harry Potter and the Deathly Hallows - Epub' was removed from the transfer list.
+(N) 2022-06-13T15:08:33 - 'Rowling, J.K. - [Harry Potter (EN) 05] Harry Potter and the Order of the Phoenix [4222] (r1.2) [EN].epub' was removed from the transfer list and hard disk.
+(N) 2022-06-13T15:13:04 - 'The Outsider by Stephen King EPUB' added to download list.
+(N) 2022-06-14T16:04:15 - 'The Outsider by Stephen King EPUB' was removed from the transfer list.
+(N) 2022-06-14T16:49:19 - '3097465bf98ce336bc3cae2608d633b2288badc1' added to download list.
+(N) 2022-06-14T16:51:31 - 'Pirates of the Caribbean - The Curse of the Black Pearl (2003) REPACK (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole)' added to download list.
+(N) 2022-06-14T16:58:15 - '66c3167b04bdf5d186b803e6033b9cb88428ecdb' added to download list.
+(N) 2022-06-14T16:58:53 - 'cdeaddb73a78225d6f4376d47bd55f497e0d444e' added to download list.
+(N) 2022-06-14T17:01:04 - 'Lost.S03e01-23.BDMux.720p.H264.Ita.Eng.Subs.FullSeason' was removed from the transfer list and hard disk.
+(N) 2022-06-14T17:01:40 - '58a625e77c3d86b7fa25151aa6a8221af9e6756b' added to download list.
+(N) 2022-06-14T21:26:35 - 'Pirates of the Caribbean - The Curse of the Black Pearl (2003) REPACK (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole)' was removed from the transfer list.
+(N) 2022-06-14T21:31:16 - 'The Disaster Artist (2017) REPACK (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole)' was removed from the transfer list.
+(N) 2022-06-15T09:39:39 - Using built-in Web UI.
+(N) 2022-06-15T09:39:40 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-15T09:39:50 - 'Lost (2004) Season 3 S03 + Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence)' was removed from the transfer list.
+(N) 2022-06-15T09:39:50 - 'Lost (2004) Season 5 S05 + Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence)' was removed from the transfer list.
+(N) 2022-06-15T09:39:50 - 'Lost (2004) Season 6 S06 + Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence)' was removed from the transfer list.
+(N) 2022-06-15T09:40:36 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-06-15T09:40:36 - Trying to listen on: 0.0.0.0:57001,[::]:57001
+(I) 2022-06-15T09:40:36 - Successfully listening on IP: 127.0.0.1, port: TCP/57001
+(I) 2022-06-15T09:40:36 - Successfully listening on IP: 127.0.0.1, port: UDP/57001
+(I) 2022-06-15T09:40:36 - Successfully listening on IP: 10.15.0.3, port: TCP/57001
+(I) 2022-06-15T09:40:36 - Successfully listening on IP: 10.15.0.3, port: UDP/57001
+(I) 2022-06-15T09:40:36 - Successfully listening on IP: 172.18.0.2, port: TCP/57001
+(I) 2022-06-15T09:40:36 - Successfully listening on IP: 172.18.0.2, port: UDP/57001
+(N) 2022-06-15T09:40:49 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-06-15T09:42:33 - Detected external IP: 66.115.189.135
+(N) 2022-06-15T09:47:29 - Using custom Web UI. Location: "/config/vuetorrent".
+(N) 2022-06-15T09:47:29 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-15T09:51:25 - 'All Your Perfects - Colleen Hoover.epub' added to download list.
+(N) 2022-06-15T09:51:29 - 'Colleen Hoover - Complete Collection [12 books]' was removed from the transfer list and hard disk.
+(N) 2022-06-15T09:55:25 - 'All Your Perfects - Colleen Hoover.epub' was removed from the transfer list and hard disk.
+(N) 2022-06-15T10:02:40 - Using built-in Web UI.
+(N) 2022-06-15T10:02:40 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-15T10:15:04 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-15T10:38:16 - 'The Dying Place - David A. Maurer.epub' added to download list.
+(N) 2022-06-15T10:41:31 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-15T10:42:12 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-15T10:59:33 - qBittorrent v4.3.8 started
+(N) 2022-06-15T10:59:33 - Using config directory: /config/qBittorrent/config/
+(I) 2022-06-15T10:59:33 - Trying to listen on: 0.0.0.0:57001,[::]:57001
+(N) 2022-06-15T10:59:33 - Peer ID: -qB4380-
+(N) 2022-06-15T10:59:33 - HTTP User-Agent is 'qBittorrent/4.3.8'
+(I) 2022-06-15T10:59:33 - DHT support [ON]
+(I) 2022-06-15T10:59:33 - Local Peer Discovery support [ON]
+(I) 2022-06-15T10:59:33 - PeX support [ON]
+(I) 2022-06-15T10:59:33 - Anonymous mode [OFF]
+(I) 2022-06-15T10:59:33 - Encryption support [ON]
+(I) 2022-06-15T10:59:33 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue May 31 20:25:04 2022.
+(N) 2022-06-15T10:59:33 - Using built-in Web UI.
+(N) 2022-06-15T10:59:33 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2022-06-15T10:59:33 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-06-15T10:59:33 - Successfully listening on IP: 127.0.0.1, port: TCP/57001
+(I) 2022-06-15T10:59:33 - Successfully listening on IP: 127.0.0.1, port: UDP/57001
+(I) 2022-06-15T10:59:33 - Successfully listening on IP: 10.15.0.18, port: TCP/57001
+(I) 2022-06-15T10:59:33 - Successfully listening on IP: 10.15.0.18, port: UDP/57001
+(I) 2022-06-15T10:59:33 - Successfully listening on IP: 172.18.0.2, port: TCP/57001
+(I) 2022-06-15T10:59:33 - Successfully listening on IP: 172.18.0.2, port: UDP/57001
+(N) 2022-06-15T10:59:33 - 'The Dying Place - David A. Maurer.epub' restored.
+(I) 2022-06-15T10:59:38 - Detected external IP: 66.115.189.141
+(N) 2022-06-15T11:00:31 - qBittorrent v4.3.8 started
+(N) 2022-06-15T11:00:31 - Using config directory: /config/qBittorrent/config/
+(I) 2022-06-15T11:00:31 - Trying to listen on: 0.0.0.0:57001,[::]:57001
+(N) 2022-06-15T11:00:31 - Peer ID: -qB4380-
+(N) 2022-06-15T11:00:31 - HTTP User-Agent is 'qBittorrent/4.3.8'
+(I) 2022-06-15T11:00:31 - DHT support [ON]
+(I) 2022-06-15T11:00:31 - Local Peer Discovery support [ON]
+(I) 2022-06-15T11:00:31 - PeX support [ON]
+(I) 2022-06-15T11:00:31 - Anonymous mode [OFF]
+(I) 2022-06-15T11:00:31 - Encryption support [ON]
+(I) 2022-06-15T11:00:31 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue May 31 20:25:04 2022.
+(N) 2022-06-15T11:00:31 - Using built-in Web UI.
+(N) 2022-06-15T11:00:31 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2022-06-15T11:00:31 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-06-15T11:00:31 - Successfully listening on IP: 127.0.0.1, port: TCP/57001
+(I) 2022-06-15T11:00:31 - Successfully listening on IP: 127.0.0.1, port: UDP/57001
+(I) 2022-06-15T11:00:31 - Successfully listening on IP: 10.15.0.13, port: TCP/57001
+(I) 2022-06-15T11:00:31 - Successfully listening on IP: 10.15.0.13, port: UDP/57001
+(I) 2022-06-15T11:00:31 - Successfully listening on IP: 172.18.0.2, port: TCP/57001
+(I) 2022-06-15T11:00:31 - Successfully listening on IP: 172.18.0.2, port: UDP/57001
+(N) 2022-06-15T11:00:31 - 'The Dying Place - David A. Maurer.epub' restored.
+(I) 2022-06-15T11:00:38 - Detected external IP: 66.115.189.131
+(N) 2022-06-15T11:15:34 - qBittorrent v4.3.8 started
+(N) 2022-06-15T11:15:34 - Using config directory: /config/qBittorrent/config/
+(I) 2022-06-15T11:15:34 - Trying to listen on: 0.0.0.0:57001,[::]:57001
+(N) 2022-06-15T11:15:34 - Peer ID: -qB4380-
+(N) 2022-06-15T11:15:34 - HTTP User-Agent is 'qBittorrent/4.3.8'
+(I) 2022-06-15T11:15:34 - DHT support [ON]
+(I) 2022-06-15T11:15:34 - Local Peer Discovery support [ON]
+(I) 2022-06-15T11:15:34 - PeX support [ON]
+(I) 2022-06-15T11:15:34 - Anonymous mode [OFF]
+(I) 2022-06-15T11:15:34 - Encryption support [ON]
+(I) 2022-06-15T11:15:34 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue May 31 20:25:04 2022.
+(N) 2022-06-15T11:15:34 - Using built-in Web UI.
+(N) 2022-06-15T11:15:34 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2022-06-15T11:15:34 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-06-15T11:15:34 - Successfully listening on IP: 127.0.0.1, port: TCP/57001
+(I) 2022-06-15T11:15:34 - Successfully listening on IP: 127.0.0.1, port: UDP/57001
+(I) 2022-06-15T11:15:34 - Successfully listening on IP: 10.15.0.21, port: TCP/57001
+(I) 2022-06-15T11:15:34 - Successfully listening on IP: 10.15.0.21, port: UDP/57001
+(I) 2022-06-15T11:15:34 - Successfully listening on IP: 172.18.0.2, port: TCP/57001
+(I) 2022-06-15T11:15:34 - Successfully listening on IP: 172.18.0.2, port: UDP/57001
+(N) 2022-06-15T11:15:34 - 'The Dying Place - David A. Maurer.epub' restored.
+(I) 2022-06-15T11:15:40 - Detected external IP: 66.115.189.141
+(N) 2022-06-15T12:22:19 - 'All Your Perfects - Colleen Hoover.epub' added to download list.
+(N) 2022-06-15T12:28:48 - Using custom Web UI. Location: "/config/vuetorrent".
+(N) 2022-06-15T12:28:48 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-15T12:33:11 - 'Tobias Wolff - In Pharaoh's Army_ Memories of_War (v5.0).epub' added to download list.
+(N) 2022-06-15T12:33:16 - 'Steven_Pressfield_-_Gates_of_Fire_-_An_Epic_Novel_of_the_Battle_of_Thermopylae' added to download list.
+(N) 2022-06-15T12:34:12 - 'Nobody Wants to Read Your Sh-t by Steven Pressfield EPUB' added to download list.
+(N) 2022-06-15T12:34:58 - 'Steven Pressfield - The Virtues of War' added to download list.
+(N) 2022-06-15T12:35:37 - 'turning_pro_pressfield_steven.epub' added to download list.
+(N) 2022-06-15T12:35:57 - 'Tobias Wolff - Back in the World.epub' added to download list.
+(N) 2022-06-15T12:36:11 - 'The Lion's Gate On the Front Lines of the Six Day War' added to download list.
+(N) 2022-06-15T12:36:26 - 'Midnight in Chernobyl_ The Unto - Adam Higginbotham.epub' added to download list.
+(N) 2022-06-15T12:36:32 - 'Tobias Wolff - Old School (epub).epub' added to download list.
+(N) 2022-06-15T12:36:32 - 'The Profession by Steven Pressfield' added to download list.
+(N) 2022-06-15T12:37:01 - 'Adam Higginbotham - A Thousand Pounds of Dynamite' added to download list.
+(N) 2022-06-15T12:37:30 - 'The Night In Question' added to download list.
+(N) 2022-06-15T12:37:48 - 'The_War_of_Art_by_Steven_Pressfield' added to download list.
+(N) 2022-06-15T12:38:06 - 'The Afghan Campaign' added to download list.
+(N) 2022-06-15T12:38:47 - 'Adam Higginbotham - A Thousand Pounds of Dynamite' was removed from the transfer list and hard disk.
+(N) 2022-06-15T12:38:47 - 'Tobias Wolff - Old School (epub).epub' was removed from the transfer list and hard disk.
+(N) 2022-06-15T12:38:47 - 'Midnight in Chernobyl_ The Unto - Adam Higginbotham.epub' was removed from the transfer list and hard disk.
+(N) 2022-06-15T12:38:52 - 'Steven Pressfield - The Artist's Journey.epub' added to download list.
+(N) 2022-06-15T12:39:03 - 'Steven_Pressfield_-_Gates_of_Fire_-_An_Epic_Novel_of_the_Battle_of_Thermopylae' was removed from the transfer list and hard disk.
+(N) 2022-06-15T12:39:05 - 'In The Garden Of The North Amer - Tobias Wolff.epub' added to download list.
+(N) 2022-06-15T12:39:36 - 'Last of the Amazons - Steven Pressfield.epub' added to download list.
+(N) 2022-06-15T12:39:59 - 'The Legend of Bagger Vance Novel of Golf and the Game of Life by Steven Pressfield' added to download list.
+(N) 2022-06-15T12:40:03 - 'This Boys Life - Tobias Wolff' added to download list.
+(N) 2022-06-15T12:40:27 - 'In The Garden Of The North Amer - Tobias Wolff.epub' was removed from the transfer list and hard disk.
+(N) 2022-06-15T12:40:27 - 'The_War_of_Art_by_Steven_Pressfield' was removed from the transfer list and hard disk.
+(N) 2022-06-15T12:40:27 - 'Nobody Wants to Read Your Sh-t by Steven Pressfield EPUB' was removed from the transfer list and hard disk.
+(N) 2022-06-15T12:40:27 - 'Steven Pressfield - The Virtues of War' was removed from the transfer list and hard disk.
+(N) 2022-06-15T12:40:38 - 'Steven Pressfield - Do the Work [Kindle azw3]' added to download list.
+(N) 2022-06-15T12:40:57 - 'Tides of War - Steven Pressfield.mobi' added to download list.
+(N) 2022-06-15T12:41:58 - '36 Righteous Men by Steven Pressfield EPUB' added to download list.
+(N) 2022-06-15T12:42:52 - 'Steven Pressfield The Warrior Ethos.epub' added to download list.
+(N) 2022-06-15T12:44:17 - 'A Man at Arms_ A Novel - Steven Pressfield.epub' added to download list.
+(N) 2022-06-15T12:48:55 - 'Steven Pressfield - The Artist's Journey.epub' was removed from the transfer list.
+(N) 2022-06-15T12:48:55 - 'The Afghan Campaign' was removed from the transfer list.
+(N) 2022-06-15T12:48:55 - '36 Righteous Men by Steven Pressfield EPUB' was removed from the transfer list.
+(N) 2022-06-15T12:48:55 - 'The Legend of Bagger Vance Novel of Golf and the Game of Life by Steven Pressfield' was removed from the transfer list.
+(N) 2022-06-15T12:48:55 - 'Tobias Wolff - In Pharaoh's Army_ Memories of_War (v5.0).epub' was removed from the transfer list.
+(N) 2022-06-15T12:48:55 - 'turning_pro_pressfield_steven.epub' was removed from the transfer list.
+(N) 2022-06-15T12:48:55 - 'Tobias Wolff - Back in the World.epub' was removed from the transfer list.
+(N) 2022-06-15T12:48:55 - 'The Profession by Steven Pressfield' was removed from the transfer list.
+(N) 2022-06-15T12:48:55 - 'A Man at Arms_ A Novel - Steven Pressfield.epub' was removed from the transfer list.
+(N) 2022-06-15T12:48:55 - 'The Night In Question' was removed from the transfer list.
+(N) 2022-06-15T12:48:55 - 'Last of the Amazons - Steven Pressfield.epub' was removed from the transfer list.
+(N) 2022-06-15T12:48:55 - 'This Boys Life - Tobias Wolff' was removed from the transfer list.
+(N) 2022-06-15T12:48:55 - 'All Your Perfects - Colleen Hoover.epub' was removed from the transfer list.
+(N) 2022-06-15T12:48:55 - 'Tides of War - Steven Pressfield.mobi' was removed from the transfer list.
+(N) 2022-06-15T12:48:55 - 'The Lion's Gate On the Front Lines of the Six Day War' was removed from the transfer list.
+(N) 2022-06-15T12:48:55 - 'Steven Pressfield The Warrior Ethos.epub' was removed from the transfer list.
+(N) 2022-06-15T12:48:55 - 'The Dying Place - David A. Maurer.epub' was removed from the transfer list.
+(N) 2022-06-15T12:48:55 - 'Steven Pressfield - Do the Work [Kindle azw3]' was removed from the transfer list.
+(N) 2022-06-15T12:50:29 - 'Tobias Wolff - In Pharaoh's Army_ Memories of_War (v5.0).epub' added to download list.
+(N) 2022-06-15T12:50:29 - 'Steven Pressfield - The Virtues of War' added to download list.
+(N) 2022-06-15T12:50:29 - 'Steven_Pressfield_-_Gates_of_Fire_-_An_Epic_Novel_of_the_Battle_of_Thermopylae' added to download list.
+(N) 2022-06-15T12:50:29 - 'The Dying Place - David A. Maurer.epub' added to download list.
+(N) 2022-06-15T12:50:29 - 'The Profession by Steven Pressfield' added to download list.
+(N) 2022-06-15T12:50:29 - 'This Boys Life - Tobias Wolff' added to download list.
+(N) 2022-06-15T12:50:29 - 'Tobias Wolff - Back in the World.epub' added to download list.
+(N) 2022-06-15T12:50:29 - 'Steven Pressfield - The Artist's Journey.epub' added to download list.
+(N) 2022-06-15T12:50:29 - 'The Legend of Bagger Vance Novel of Golf and the Game of Life by Steven Pressfield' added to download list.
+(N) 2022-06-15T12:50:29 - 'All Your Perfects - Colleen Hoover.epub' added to download list.
+(N) 2022-06-15T12:50:29 - 'The Afghan Campaign' added to download list.
+(N) 2022-06-15T12:50:29 - 'A Man at Arms_ A Novel - Steven Pressfield.epub' added to download list.
+(N) 2022-06-15T12:50:29 - 'The Lion's Gate On the Front Lines of the Six Day War' added to download list.
+(N) 2022-06-15T12:50:29 - 'Tides of War - Steven Pressfield.mobi' added to download list.
+(N) 2022-06-15T12:50:29 - 'The Night In Question' added to download list.
+(N) 2022-06-15T12:50:29 - 'Last of the Amazons - Steven Pressfield.epub' added to download list.
+(N) 2022-06-15T12:50:29 - 'turning_pro_pressfield_steven.epub' added to download list.
+(N) 2022-06-15T12:50:29 - 'Adam Higginbotham - A Thousand Pounds of Dynamite' added to download list.
+(N) 2022-06-15T12:50:29 - 'Steven Pressfield The Warrior Ethos.epub' added to download list.
+(N) 2022-06-15T12:52:05 - Using built-in Web UI.
+(N) 2022-06-15T12:52:05 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-15T12:57:19 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-15T12:57:49 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-15T15:43:27 - 'Rowling, J.K. - [Harry Potter (EN) 03] Harry Potter and the Prisoner of Azkaban [4175] (r1.3) [EN].epub' added to download list.
+(N) 2022-06-15T15:44:26 - 'Rowling, J.K. - [Harry Potter (EN) 03] Harry Potter and the Prisoner of Azkaban [4175] (r1.3) [EN].epub' was removed from the transfer list and hard disk.
+(N) 2022-06-15T15:45:26 - 'The Ickabog by J.K. Rowling EPUB' added to download list.
+(N) 2022-06-15T15:46:35 - 'If It Bleeds by Stephen King EPUB' added to download list.
+(N) 2022-06-15T16:18:13 - 'If It Bleeds by Stephen King EPUB' was removed from the transfer list and hard disk.
+(N) 2022-06-15T16:18:13 - 'The Ickabog by J.K. Rowling EPUB' was removed from the transfer list and hard disk.
+(N) 2022-06-15T17:02:19 - Using custom Web UI. Location: "/config/vuetorrent".
+(N) 2022-06-15T17:02:19 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-15T17:04:28 - Using built-in Web UI.
+(N) 2022-06-15T17:04:28 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-15T17:06:19 - 'Steven Pressfield-Gates of Fire' added to download list.
+(N) 2022-06-15T17:07:14 - 'Steven-Pressfield_Nobody-Wants-to-Read-Your-Sh-t.epub' added to download list.
+(N) 2022-06-15T17:07:29 - 'Tobias Wolff - Old School (epub).epub' added to download list.
+(N) 2022-06-15T17:08:07 - 'In The Garden Of The North Amer - Tobias Wolff.epub' added to download list.
+(N) 2022-06-15T17:08:19 - 'Midnight in Chernobyl_ The Unto - Adam Higginbotham.epub' added to download list.
+(N) 2022-06-15T17:08:34 - 'The_War_of_Art_by_Steven_Pressfield' added to download list.
+(N) 2022-06-15T17:09:18 - 'Steven Pressfield - Do the Work [Kindle azw3]' added to download list.
+(N) 2022-06-15T17:09:46 - 'Exploring J.R.R. Tolkien's The Hobbit  - Corey Olsen' added to download list.
+(N) 2022-06-15T17:10:22 - 'John Stryker Meyer - Across the Fence.epub' added to download list.
+(N) 2022-06-15T17:11:18 - 'The Lay of Aotrou and Itroun - J.R.R. Tolkien [EN EPUB] [ebook] [p_s]' added to download list.
+(N) 2022-06-15T17:14:11 - 'The Silmarillion - J.R.R Tolkien (epub, mopbi, pdf)' added to download list.
+(N) 2022-06-15T17:15:32 - 'J.R.R. Tolkien - Roverandom - [Epub Lit Pdf Rtf Txt - Ita] Fantasy' added to download list.
+(N) 2022-06-15T17:17:35 - 'J.R.R. Tolkien - The Fall of Gondolin.epub' added to download list.
+(N) 2022-06-15T17:19:00 - 'J.R.R. Tolkien - The Story of Kullervo epub' added to download list.
+(N) 2022-06-15T17:19:26 - 'Unfinished Tales of Numenor and Middle-Earth - J.R.R. Tolkien.epub' added to download list.
+(N) 2022-06-15T17:21:45 - 'Beren and Luthien - J.R.R. Tolkien-Christopher Tolkien [EN EPUB] [ebook] [ps]' added to download list.
+(N) 2022-06-15T17:26:32 - 'A Secret Vice by J. R. R. Tolkien (.epub)' added to download list.
+(N) 2022-06-15T17:31:51 - 'In The Garden Of The North Amer - Tobias Wolff.epub' was removed from the transfer list and hard disk.
+(N) 2022-06-15T17:31:51 - 'Tobias Wolff - Old School (epub).epub' was removed from the transfer list and hard disk.
+(N) 2022-06-15T17:31:51 - 'Exploring J.R.R. Tolkien's The Hobbit  - Corey Olsen' was removed from the transfer list and hard disk.
+(N) 2022-06-15T17:31:51 - 'Steven-Pressfield_Nobody-Wants-to-Read-Your-Sh-t.epub' was removed from the transfer list and hard disk.
+(N) 2022-06-15T17:31:51 - 'John Stryker Meyer - Across the Fence.epub' was removed from the transfer list and hard disk.
+(N) 2022-06-15T17:31:51 - 'Midnight in Chernobyl_ The Unto - Adam Higginbotham.epub' was removed from the transfer list and hard disk.
+(N) 2022-06-15T17:31:51 - 'The_War_of_Art_by_Steven_Pressfield' was removed from the transfer list and hard disk.
+(N) 2022-06-15T17:31:51 - 'The Silmarillion - J.R.R Tolkien (epub, mopbi, pdf)' was removed from the transfer list and hard disk.
+(N) 2022-06-15T17:31:51 - 'J.R.R. Tolkien - Roverandom - [Epub Lit Pdf Rtf Txt - Ita] Fantasy' was removed from the transfer list and hard disk.
+(N) 2022-06-15T17:32:01 - 'Steven Pressfield - Do the Work [Kindle azw3]' was removed from the transfer list.
+(N) 2022-06-16T16:10:48 - Using custom Web UI. Location: "/config/vuetorrent".
+(N) 2022-06-16T16:10:48 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-16T17:07:01 - 'Nobody Wants to Read Your Sh-t by Steven Pressfield EPUB' added to download list.
+(N) 2022-06-16T17:07:41 - 'Tobias Wolff - Old School (epub).epub' added to download list.
+(N) 2022-06-16T17:07:57 - 'Midnight in Chernobyl_ The Unto - Adam Higginbotham.epub' added to download list.
+(N) 2022-06-16T17:08:14 - 'In The Garden Of The North Amer - Tobias Wolff.epub' added to download list.
+(N) 2022-06-16T17:08:21 - 'The_War_of_Art_by_Steven_Pressfield' added to download list.
+(N) 2022-06-16T17:08:32 - 'Steven Pressfield - Do the Work [Kindle azw3]' added to download list.
+(N) 2022-06-16T17:08:44 - 'Exploring J.R.R. Tolkien's The Hobbit  - Corey Olsen' added to download list.
+(N) 2022-06-16T17:13:19 - 'J.R.R. Tolkien - Roverandom - [Epub Lit Pdf Rtf Txt - Ita] Fantasy' added to download list.
+(N) 2022-06-17T13:29:02 - 'f1819ddf389450318d241e6df34bfe2b48974784' added to download list.
+(N) 2022-06-17T15:49:54 - '41768db4225c1bdc60950c19c45197e813319a97' added to download list.
+(N) 2022-06-17T15:50:41 - 'Rescue Dawn (2006) REPACK (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole)' added to download list.
+(N) 2022-06-17T15:51:02 - 'The New World (2005) Criterion Extended (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole)' added to download list.
+(N) 2022-06-17T17:09:14 - 'Blood Diamond (2006) (1080p BDRip x265 10bit EAC3 5.1 - xtrem3x)[TAoE].mkv' was removed from the transfer list and hard disk.
+(N) 2022-06-17T22:45:34 - 'Spider-Man.No.Way.Home.2021.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP' added to download list.
+(N) 2022-06-17T22:45:51 - 'Nobody 2021 1080p BluRay x264 DTS - 5-1  KINGDOM-RG' added to download list.
+(N) 2022-06-17T22:46:10 - 'f0931b84923007cfea45726f6c761e8169fbf8a8' added to download list.
+(N) 2022-06-17T22:47:43 - 'Spider.Man.Into.the.Spider.Verse.2018.MULTI.1080p.BluRay.REMUX-DDB' added to download list.
+(N) 2022-06-17T22:55:13 - 'Breaking.Bad.S01.1080p.BluRay.x265-RARBG' added to download list.
+(N) 2022-06-17T22:56:12 - 'Breaking.Bad.S02.1080p.BluRay.x265-RARBG' added to download list.
+(N) 2022-06-17T22:57:22 - 'Breaking.Bad.S03.1080p.BluRay.x265-RARBG' added to download list.
+(N) 2022-06-17T22:57:48 - Using built-in Web UI.
+(N) 2022-06-17T22:57:48 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-17T22:58:32 - 'Breaking.Bad.S04.1080p.BluRay.x265-RARBG' added to download list.
+(N) 2022-06-17T22:59:37 - 'Breaking.Bad.S05.1080p.BluRay.x265-RARBG' added to download list.
+(N) 2022-06-17T22:59:51 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-17T23:01:06 - Using custom Web UI. Location: "/config/vuetorrent".
+(N) 2022-06-17T23:01:06 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-18T16:18:16 - 'We're Back! A Dinosaur's Story (1993) [BluRay] [1080p] [YTS.AM]' added to download list.
+(I) 2022-06-19T02:01:48 - Successfully listening on IP: 10.15.0.12, port: TCP/57001
+(I) 2022-06-19T02:01:48 - Successfully listening on IP: 10.15.0.12, port: UDP/57001
+(I) 2022-06-19T02:01:50 - Detected external IP: 66.115.189.140
+(N) 2022-06-19T05:08:52 - 'J.R.R. Tolkien - The Fall of Gondolin.epub' reached the maximum seeding time you set. Paused.
+(N) 2022-06-20T05:56:21 - 'Steven Pressfield - Do the Work [Kindle azw3]' reached the maximum seeding time you set. Paused.
+(N) 2022-06-20T09:52:43 - 'Steven Pressfield - Do the Work [Kindle azw3]' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:04 - 'In The Garden Of The North Amer - Tobias Wolff.epub' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:04 - 'Midnight in Chernobyl_ The Unto - Adam Higginbotham.epub' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:04 - 'Tobias Wolff - Old School (epub).epub' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:04 - 'The_War_of_Art_by_Steven_Pressfield' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:04 - 'Unfinished Tales of Numenor and Middle-Earth - J.R.R. Tolkien.epub' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:04 - 'Beren and Luthien - J.R.R. Tolkien-Christopher Tolkien [EN EPUB] [ebook] [ps]' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:04 - 'Steven Pressfield The Warrior Ethos.epub' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:04 - 'Tides of War - Steven Pressfield.mobi' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:04 - 'A Man at Arms_ A Novel - Steven Pressfield.epub' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:04 - 'The Profession by Steven Pressfield' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:04 - 'The Lion's Gate On the Front Lines of the Six Day War' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:04 - 'The Night In Question' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:04 - 'The Legend of Bagger Vance Novel of Golf and the Game of Life by Steven Pressfield' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:04 - 'J.R.R. Tolkien - The Story of Kullervo epub' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:04 - 'All Your Perfects - Colleen Hoover.epub' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:04 - 'This Boys Life - Tobias Wolff' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:04 - 'Steven Pressfield - The Virtues of War' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:04 - 'Adam Higginbotham - A Thousand Pounds of Dynamite' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:04 - 'Breaking.Bad.S05.1080p.BluRay.x265-RARBG' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:06 - 'The.Thing.1982.Arrow.Remaster.1080p.BluRay.x265.HEVC.EAC3-SARTRE' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:06 - 'Breaking.Bad.S02.1080p.BluRay.x265-RARBG' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:06 - 'Spider.Man.Into.the.Spider.Verse.2018.MULTI.1080p.BluRay.REMUX-DDB' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:06 - 'Exploring J.R.R. Tolkien's The Hobbit  - Corey Olsen' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:06 - 'Breaking.Bad.S01.1080p.BluRay.x265-RARBG' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:06 - 'The Afghan Campaign' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:06 - 'Spider-Man.No.Way.Home.2021.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:06 - 'Nobody 2021 1080p BluRay x264 DTS - 5-1  KINGDOM-RG' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:06 - 'Last of the Amazons - Steven Pressfield.epub' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:06 - 'turning_pro_pressfield_steven.epub' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:06 - 'The Lay of Aotrou and Itroun - J.R.R. Tolkien [EN EPUB] [ebook] [p_s]' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:06 - 'Steven Pressfield - The Artist's Journey.epub' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:06 - 'A Secret Vice by J. R. R. Tolkien (.epub)' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:06 - 'J.R.R. Tolkien - The Fall of Gondolin.epub' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:06 - 'Steven Pressfield-Gates of Fire' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:06 - 'We're Back! A Dinosaur's Story (1993) [BluRay] [1080p] [YTS.AM]' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:06 - 'Harry Potter and the Goblet of Fire (2005) 1080p Bluray x264 English AC3 5.1 - MeGUiL' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:06 - 'Nobody Wants to Read Your Sh-t by Steven Pressfield EPUB' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:06 - 'J.R.R. Tolkien - Roverandom - [Epub Lit Pdf Rtf Txt - Ita] Fantasy' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:06 - 'Rescue Dawn (2006) REPACK (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole)' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:06 - 'Breaking.Bad.S03.1080p.BluRay.x265-RARBG' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:06 - 'Breaking.Bad.S04.1080p.BluRay.x265-RARBG' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:06 - 'The New World (2005) Criterion Extended (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole)' was removed from the transfer list and hard disk.
+(N) 2022-06-20T09:54:22 - 'The Dying Place - David A. Maurer.epub' was removed from the transfer list.
+(N) 2022-06-20T09:54:22 - 'Steven_Pressfield_-_Gates_of_Fire_-_An_Epic_Novel_of_the_Battle_of_Thermopylae' was removed from the transfer list.
+(N) 2022-06-20T09:54:22 - 'Tobias Wolff - In Pharaoh's Army_ Memories of_War (v5.0).epub' was removed from the transfer list.
+(N) 2022-06-20T09:54:22 - 'Tobias Wolff - Back in the World.epub' was removed from the transfer list.
+(N) 2022-06-20T09:54:34 - 'Exploring J.R.R. Tolkien's The Hobbit  - Corey Olsen' added to download list.
+(N) 2022-06-20T11:05:23 - 'Lost (2004) Season 4 S04 + Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence)' added to download list.
+(N) 2022-06-20T12:55:38 - 'Lost (2004) Season 4 S04 + Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence)' was removed from the transfer list.
+(N) 2022-06-20T12:56:48 - '5a52eedb94d45d24db1bd457c2056096cdf1dd10' added to download list.
+(N) 2022-06-20T12:57:16 - 'Bassnectar - Underground Communication' added to download list.
+(N) 2022-06-20T17:07:53 - 'Midnight in Chernobyl_ The Unto - Adam Higginbotham.epub' added to download list.
+(N) 2022-06-20T17:08:24 - 'Adam Higginbotham - A Thousand Pounds of Dynamite' added to download list.
+(N) 2022-06-21T00:44:58 - 'Crimes.of.the.Future.2022.1080p.WEB-DL.DD5.1.H.264-CMRG[TGx]' added to download list.
+(N) 2022-06-21T21:14:14 - 'Exploring J.R.R. Tolkien's The Hobbit  - Corey Olsen' was removed from the transfer list.
+(N) 2022-06-21T21:19:35 - 'deadmau-5-portugal.-the-man-this-is-fine.' added to download list.
+(W) 2022-06-21T21:19:36 - URL seed name lookup failed. Torrent: "deadmau-5-portugal.-the-man-this-is-fine.". URL: "/3/items/". Error: "deadmau-5-portugal.-the-man-this-is-fine. url seed (/3/items/) failed: unsupported URL protocol"
+(N) 2022-06-21T21:19:41 - 'Midnight in Chernobyl_ The Unto - Adam Higginbotham.epub' was removed from the transfer list and hard disk.
+(N) 2022-06-21T21:19:41 - 'Adam Higginbotham - A Thousand Pounds of Dynamite' was removed from the transfer list and hard disk.
+(N) 2022-06-21T21:20:29 - 'Midnight in Chernobyl_ The Unto - Adam Higginbotham.epub' added to download list.
+(N) 2022-06-21T21:26:28 - 'Midnight in Chernobyl_ The Unto - Adam Higginbotham.epub' was removed from the transfer list and hard disk.
+(N) 2022-06-21T21:27:16 - 'Midnight in Chernobyl_ The Unto - Adam Higginbotham.epub' added to download list.
+(N) 2022-06-21T21:29:54 - 'Crimes.of.the.Future.2022.1080p.WEB-DL.DD5.1.H.264-CMRG[TGx]' was removed from the transfer list.
+(N) 2022-06-21T21:30:12 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-21T21:31:43 - 'Midnight in Chernobyl_ The Unto - Adam Higginbotham.epub' was removed from the transfer list and hard disk.
+(N) 2022-06-21T21:33:44 - 'Midnight in Chernobyl_ The Unto - Adam Higginbotham.epub' added to download list.
+(N) 2022-06-22T07:38:33 - 'Midnight in Chernobyl_ The Unto - Adam Higginbotham.epub' was removed from the transfer list and hard disk.
+(N) 2022-06-22T07:39:44 - 'Midnight in Chernobyl_ The Unto - Adam Higginbotham.epub' added to download list.
+(W) 2022-06-22T08:21:27 - Bad Http request, closing socket. IP: ::ffff:172.18.0.1
+(N) 2022-06-22T17:10:25 - 'Adam Higginbotham - A Thousand Pounds of Dynamite' added to download list.
+(N) 2022-06-23T08:02:22 - 'Chris Ryan' added to download list.
+(N) 2022-06-23T08:02:22 - 'Ben Creed - A Traitor's Heart' added to download list.
+(N) 2022-06-23T08:02:22 - 'James Clavell - Gai-Jin' added to download list.
+(N) 2022-06-23T08:02:22 - 'Gerard Doyle' added to download list.
+(N) 2022-06-23T08:02:22 - 'Melanie Magidow - The Tale of Princess Fatima, Warrior Woman' added to download list.
+(N) 2022-06-23T08:02:22 - 'Elmore Leonard' added to download list.
+(N) 2022-06-23T08:02:22 - 'David Baldacci - 2021 - A Gambling Man' added to download list.
+(N) 2022-06-23T08:02:22 - 'Ken Follett - Code to Zero' added to download list.
+(N) 2022-06-23T08:02:22 - 'David Simon-Homicide-A Year on the Killing Streets' added to download list.
+(N) 2022-06-23T08:02:22 - 'Bloody Jack - Bk1 Bloody Jack Series - L.A. Meyer' added to download list.
+(N) 2022-06-23T08:02:22 - 'James Clavell - King Rat - 22.22' added to download list.
+(N) 2022-06-23T08:02:22 - 'Nicholas Rhea - Constable 04 - Constable Across the Moors 1992' added to download list.
+(N) 2022-06-23T08:02:22 - 'Jason King Collection' added to download list.
+(N) 2022-06-23T08:12:10 - 'ML-TGATM' added to download list.
+(N) 2022-06-23T08:12:10 - '01 The Iron Dragon's Daughter' added to download list.
+(N) 2022-06-23T08:12:10 - 'The British Knight by Louise Bay [MP3]' added to download list.
+(N) 2022-06-23T08:12:10 - '1978 - Night Shift (20 short stories)' added to download list.
+(N) 2022-06-23T08:12:10 - 'House of Blades - The Traveler's Gate Trilogy, Volume 1 (Unabridged)' added to download list.
+(N) 2022-06-23T08:12:10 - 'Drizzt Audiobook Collection' added to download list.
+(N) 2022-06-23T08:12:10 - 'Skeleton Crew - Frank Muller' added to download list.
+(N) 2022-06-23T08:12:42 - 'Adam Higginbotham - A Thousand Pounds of Dynamite' was removed from the transfer list and hard disk.
+(N) 2022-06-23T08:24:37 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-23T08:24:40 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-23T08:25:35 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-23T09:36:20 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-23T09:36:21 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-23T09:37:04 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-23T09:37:23 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-23T09:39:01 - 'Tobias Wolff - In Pharaoh's Army_ Memories of_War (v5.0).epub' added to download list.
+(N) 2022-06-23T09:39:01 - 'Steven Pressfield - The Virtues of War' added to download list.
+(N) 2022-06-23T09:39:01 - 'Steven_Pressfield_-_Gates_of_Fire_-_An_Epic_Novel_of_the_Battle_of_Thermopylae' added to download list.
+(N) 2022-06-23T09:39:01 - 'The Dying Place - David A. Maurer.epub' added to download list.
+(N) 2022-06-23T09:39:01 - 'The Profession by Steven Pressfield' added to download list.
+(N) 2022-06-23T09:39:01 - 'This Boys Life - Tobias Wolff' added to download list.
+(N) 2022-06-23T09:39:01 - 'Tobias Wolff - Back in the World.epub' added to download list.
+(N) 2022-06-23T09:39:01 - 'Exploring J.R.R. Tolkien's The Hobbit  - Corey Olsen' added to download list.
+(N) 2022-06-23T09:39:01 - 'Steven Pressfield - The Artist's Journey.epub' added to download list.
+(N) 2022-06-23T09:39:01 - 'The Legend of Bagger Vance Novel of Golf and the Game of Life by Steven Pressfield' added to download list.
+(N) 2022-06-23T09:39:01 - 'All Your Perfects - Colleen Hoover.epub' added to download list.
+(N) 2022-06-23T09:39:01 - 'The Afghan Campaign' added to download list.
+(N) 2022-06-23T09:39:01 - 'A Man at Arms_ A Novel - Steven Pressfield.epub' added to download list.
+(N) 2022-06-23T09:39:01 - 'Steven Pressfield-Gates of Fire' added to download list.
+(N) 2022-06-23T09:39:01 - 'The Lion's Gate On the Front Lines of the Six Day War' added to download list.
+(N) 2022-06-23T09:39:01 - 'Tides of War - Steven Pressfield.mobi' added to download list.
+(N) 2022-06-23T09:39:01 - 'The Night In Question' added to download list.
+(N) 2022-06-23T09:39:01 - 'Last of the Amazons - Steven Pressfield.epub' added to download list.
+(N) 2022-06-23T09:39:01 - 'turning_pro_pressfield_steven.epub' added to download list.
+(N) 2022-06-23T09:39:01 - 'Adam Higginbotham - A Thousand Pounds of Dynamite' added to download list.
+(N) 2022-06-23T09:39:01 - 'Steven Pressfield The Warrior Ethos.epub' added to download list.
+(N) 2022-06-23T09:42:53 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-23T09:42:54 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-06-23T10:31:13 - 'Exploring J.R.R. Tolkien's The Hobbit by Corey Olsen ePUB eBOOK-' added to download list.
+(N) 2022-06-23T10:32:43 - 'The Hedge Knight - George R. R. Martin.epub' added to download list.
+(N) 2022-06-23T10:34:36 - 'The Complete Dreamsongs by George R.R. Martin.epub' added to download list.
+(N) 2022-06-23T10:34:54 - 'The Lay of Aotrou and Itroun - J.R.R. Tolkien [EN EPUB] [ebook] [p_s]' added to download list.
+(N) 2022-06-23T10:34:56 - 'Tobias Wolff - Old School (epub).epub' added to download list.
+(N) 2022-06-23T10:36:12 - 'Fevre Dream - George R.R. Martin.epub' added to download list.
+(N) 2022-06-23T10:38:33 - 'In The Garden Of The North Amer - Tobias Wolff.epub' added to download list.
+(N) 2022-06-23T10:41:26 - 'The Lay of Aotrou and Itroun - J.R.R. Tolkien [EN EPUB] [ebook] [p_s]' was removed from the transfer list and hard disk.
+(N) 2022-06-23T10:41:26 - 'Exploring J.R.R. Tolkien's The Hobbit by Corey Olsen ePUB eBOOK-' was removed from the transfer list and hard disk.
+(N) 2022-06-23T10:41:26 - 'In The Garden Of The North Amer - Tobias Wolff.epub' was removed from the transfer list and hard disk.
+(N) 2022-06-23T10:41:26 - 'Fevre Dream - George R.R. Martin.epub' was removed from the transfer list and hard disk.
+(N) 2022-06-23T10:41:26 - 'The Complete Dreamsongs by George R.R. Martin.epub' was removed from the transfer list and hard disk.
+(N) 2022-06-23T10:41:26 - 'The Hedge Knight - George R. R. Martin.epub' was removed from the transfer list and hard disk.
+(N) 2022-06-23T10:41:26 - 'Tobias Wolff - Old School (epub).epub' was removed from the transfer list and hard disk.
+(N) 2022-06-23T10:42:15 - 'George R.R. Martin - A Dance With Dragons' added to download list.
+(N) 2022-06-23T10:42:37 - '05 - A Dance with Dragons' added to download list.
+(N) 2022-06-23T10:42:38 - '04 - A Feast for Crows' added to download list.
+(N) 2022-06-23T10:43:00 - 'Storm of Swords, A - George R. R. Martin.azw3' added to download list.
+(N) 2022-06-23T10:43:13 - 'A Game of Thrones [Enhanced Edition] - George R. R. Martin' added to download list.
+(N) 2022-06-23T10:43:20 - 'A Clash of Kings' added to download list.
+(N) 2022-06-23T10:43:32 - 'A Clash of Kings' was removed from the transfer list and hard disk.
+(N) 2022-06-23T10:43:32 - 'A Game of Thrones [Enhanced Edition] - George R. R. Martin' was removed from the transfer list and hard disk.
+(N) 2022-06-23T10:43:32 - '04 - A Feast for Crows' was removed from the transfer list and hard disk.
+(N) 2022-06-23T10:43:32 - 'George R.R. Martin - A Dance With Dragons' was removed from the transfer list and hard disk.
+(N) 2022-06-23T10:43:32 - '05 - A Dance with Dragons' was removed from the transfer list and hard disk.
+(N) 2022-06-23T10:43:32 - 'Storm of Swords, A - George R. R. Martin.azw3' was removed from the transfer list and hard disk.
+(N) 2022-06-23T10:43:41 - 'A Clash of Kings' added to download list.
+(N) 2022-06-23T10:43:59 - '04 - A Feast for Crows' added to download list.
+(N) 2022-06-23T10:44:10 - '04 - A Feast for Crows' was removed from the transfer list and hard disk.
+(N) 2022-06-23T10:44:10 - 'A Clash of Kings' was removed from the transfer list and hard disk.
+(N) 2022-06-23T10:44:21 - 'Storm of Swords, A - George R. R. Martin.azw3' added to download list.
+(N) 2022-06-23T10:44:52 - 'Storm of Swords, A - George R. R. Martin.azw3' was removed from the transfer list and hard disk.
+(N) 2022-06-23T17:10:41 - 'Exploring J.R.R. Tolkien's The Hobbit by Corey Olsen ePUB eBOOK-' added to download list.
+(N) 2022-06-25T05:43:01 - 'Bassnectar - NVSB Remixes (2014)' reached the maximum seeding time you set. Paused.
+(N) 2022-06-25T05:43:48 - 'Bassnectar - NVSB Remixes (2014)' was removed from the transfer list and hard disk.
+(I) 2022-06-26T02:01:50 - Successfully listening on IP: 10.15.0.4, port: TCP/57001
+(I) 2022-06-26T02:01:51 - Successfully listening on IP: 10.15.0.4, port: UDP/57001
+(I) 2022-06-26T02:02:04 - Detected external IP: 66.115.189.140
+(I) 2022-06-26T02:03:07 - Detected external IP: 66.115.189.141
+(N) 2022-06-26T08:50:12 - 'Verity by Colleen Hoover AZW3' added to download list.
+(N) 2022-06-26T08:50:13 - 'It Ends with Us by Colleen Hoover EPUB' added to download list.
+(N) 2022-06-26T08:50:19 - 'Regretting You by Colleen Hoover EPUB' added to download list.
+(N) 2022-06-26T08:50:24 - 'Reminders of Him by Colleen Hoover EPUB' added to download list.
+(N) 2022-06-26T08:50:31 - 'Layla by Colleen Hoover EPUB' added to download list.
+(N) 2022-06-26T08:54:31 - 'Exploring J.R.R. Tolkien's The Hobbit by Corey Olsen ePUB eBOOK-' was removed from the transfer list and hard disk.
+(N) 2022-06-26T08:54:46 - 'Midnight in Chernobyl_ The Unto - Adam Higginbotham.epub' was removed from the transfer list and hard disk.
+(N) 2022-06-26T08:55:45 - 'George R. R. Martin - A Storm of Swords - Epub' added to download list.
+(N) 2022-06-26T08:55:47 - 'George R. R. Martin - A Dance with Dragons - Epub' added to download list.
+(N) 2022-06-26T08:55:49 - 'George R. R. Martin - A Clash of Kings - Epub' added to download list.
+(N) 2022-06-26T08:55:51 - 'George R. R. Martin - A Game of Thrones - Epub' added to download list.
+(N) 2022-06-26T08:55:53 - 'George R. R. Martin - A Feast for Crows - Epub' added to download list.
+(N) 2022-06-26T08:56:00 - 'Exploring J.R.R. Tolkien&#039;s The Hobbit by Corey Olsen ePUB eBOOK-ZAK' added to download list.
+(N) 2022-06-26T09:41:21 - 'Uncharted (2022) BDRemux 1080p [2xUkr] [Eng] [Hurtom].mkv' added to download list.
+(N) 2022-06-26T09:42:54 - 'Uncharted (2022) BDRemux 1080p [2xUkr] [Eng] [Hurtom].mkv' was removed from the transfer list and hard disk.
+(N) 2022-06-26T09:46:41 - 'Uncharted.2022.1080p.WEB-DL.DDP5.1.H264-EVO[TGx]' added to download list.
+(N) 2022-06-26T16:46:24 - 'Exploring J.R.R. Tolkien&#039;s The Hobbit by Corey Olsen ePUB eBOOK-ZAK' was removed from the transfer list and hard disk.
+(N) 2022-06-26T17:26:34 - '7dd441ad65a674ae88f275eb6f30554a8a51874d' added to download list.
+(N) 2022-06-26T17:27:29 - 'af5efd39773ccee2941258378fdf925ced5bfa25' added to download list.
+(N) 2022-06-26T17:28:33 - 'Sherlock (2010) Season 3 S03 + Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 afm72)' added to download list.
+(N) 2022-06-26T17:29:32 - 'b61c210af4e175ed9ea04623045eb56f336b175f' added to download list.
+(N) 2022-06-26T20:04:51 - 'David Baldacci - 2021 - A Gambling Man' reached the maximum seeding time you set. Paused.
+(N) 2022-06-26T20:06:21 - 'Nicholas Rhea - Constable 04 - Constable Across the Moors 1992' reached the maximum seeding time you set. Paused.
+(N) 2022-06-26T20:06:21 - 'Ken Follett - Code to Zero' reached the maximum seeding time you set. Paused.
+(N) 2022-06-26T20:07:11 - 'Bloody Jack - Bk1 Bloody Jack Series - L.A. Meyer' reached the maximum seeding time you set. Paused.
+(N) 2022-06-26T20:08:51 - 'Melanie Magidow - The Tale of Princess Fatima, Warrior Woman' reached the maximum seeding time you set. Paused.
+(N) 2022-06-26T20:09:21 - 'James Clavell - King Rat - 22.22' reached the maximum seeding time you set. Paused.
+(N) 2022-06-26T20:09:21 - 'Ben Creed - A Traitor's Heart' reached the maximum seeding time you set. Paused.
+(N) 2022-06-26T20:10:21 - 'David Simon-Homicide-A Year on the Killing Streets' reached the maximum seeding time you set. Paused.
+(N) 2022-06-26T20:11:11 - 'Jason King Collection' reached the maximum seeding time you set. Paused.

@@ -205,7 +205,7 @@ Config
 
 <!-- ROADMAP -->
 ## Roadmap
-- [ ] Configure Grafana + Prometheus for dashboards
+- [ ] Configure Grafana + Prometheus + SNMP for dashboards
 - [ ] Nginx Reverse Proxy
 
 <p align="right">(<a href="#top">back to top</a>)</p>
