@@ -1,0 +1,795 @@
+Xsession: X session started for abc at Tue Jun  7 21:00:34 UTC 2022
+localuser:abc being added to access control list
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting USER=abc
+dbus-update-activation-environment: setting HOME=/config
+dbus-update-activation-environment: setting XRDP_PULSE_SINK_SOCKET=xrdp_chansrv_audio_out_socket_10
+dbus-update-activation-environment: setting XRDP_PULSE_SOURCE_SOCKET=xrdp_chansrv_audio_in_socket_10
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-xZndz0Oq9E,guid=9991983d6259895c357698f8629fbc73
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting LOGNAME=abc
+dbus-update-activation-environment: setting PATH=/sbin:/bin:/usr/bin:/usr/local/bin
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/run/xrdp/sockdir
+dbus-update-activation-environment: setting DISPLAY=:10.0
+dbus-update-activation-environment: setting UID=1028
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/config/.gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/config
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+Xsession: X session started for abc at Tue Jun  7 21:03:18 UTC 2022
+localuser:abc being added to access control list
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting USER=abc
+dbus-update-activation-environment: setting HOME=/config
+dbus-update-activation-environment: setting XRDP_PULSE_SINK_SOCKET=xrdp_chansrv_audio_out_socket_10
+dbus-update-activation-environment: setting XRDP_PULSE_SOURCE_SOCKET=xrdp_chansrv_audio_in_socket_10
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-VbknaL5mM7,guid=0fdd4fa81246959acbf55c7f629fbd17
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting LOGNAME=abc
+dbus-update-activation-environment: setting PATH=/sbin:/bin:/usr/bin:/usr/local/bin
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/run/xrdp/sockdir
+dbus-update-activation-environment: setting DISPLAY=:10.0
+dbus-update-activation-environment: setting UID=1028
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/config/.gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/config
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+Failed to read from book file: calibre-book-metadata.json with error: [Errno 2] No such file or directory: '/config/.cache/calibre/ev2/f/c1-9ah53po_/calibre-book-metadata.json'
+Failed to read from book file: calibre-book-manifest.json with error: [Errno 2] No such file or directory: '/config/.cache/calibre/ev2/f/c1-9ah53po_/calibre-book-manifest.json'
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+Xsession: X session started for abc at Tue Jun  7 21:41:47 UTC 2022
+localuser:abc being added to access control list
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting USER=abc
+dbus-update-activation-environment: setting HOME=/config
+dbus-update-activation-environment: setting XRDP_PULSE_SINK_SOCKET=xrdp_chansrv_audio_out_socket_10
+dbus-update-activation-environment: setting XRDP_PULSE_SOURCE_SOCKET=xrdp_chansrv_audio_in_socket_10
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-9stjgxtHtZ,guid=570790cef0357d3ecd6c74fd629fc61b
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting LOGNAME=abc
+dbus-update-activation-environment: setting PATH=/sbin:/bin:/usr/bin:/usr/local/bin
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/run/xrdp/sockdir
+dbus-update-activation-environment: setting DISPLAY=:10.0
+dbus-update-activation-environment: setting UID=1028
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/config/.gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/config
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+Unable to detect a launcher for 'file:///config/Calibre Library/John Schember/Quick Start Guide (1)'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+Failed to download live module calibre.gui2.store.amazon_live
+Traceback (most recent call last):
+  File "calibre/live.py", line 79, in download_worker
+  File "calibre/live.py", line 198, in latest_data_for_module
+  File "calibre/live.py", line 173, in read_from_cache
+apsw.BusyError: BusyError: database is locked
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+Restarting with: /opt/calibre/bin/calibre
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 4889, resource id: 8392120, major code: 40 (TranslateCoords), minor code: 0
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+Unable to detect a web browser to launch 'http://127.0.0.1:8081'
+Xsession: X session started for abc at Wed Jun  8 11:02:51 UTC 2022
+localuser:abc being added to access control list
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting USER=abc
+dbus-update-activation-environment: setting HOME=/config
+dbus-update-activation-environment: setting XRDP_PULSE_SINK_SOCKET=xrdp_chansrv_audio_out_socket_11
+dbus-update-activation-environment: setting XRDP_PULSE_SOURCE_SOCKET=xrdp_chansrv_audio_in_socket_11
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-EoeQMOAC1Z,guid=df97b5a064dbc139693f00f762a081dd
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting LOGNAME=abc
+dbus-update-activation-environment: setting PATH=/sbin:/bin:/usr/bin:/usr/local/bin
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/run/xrdp/sockdir
+dbus-update-activation-environment: setting DISPLAY=:11.0
+dbus-update-activation-environment: setting UID=1028
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/config/.gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/config
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+qt.qpa.xcb: QXcbConnection: XCB error: 148 (Unknown), sequence: 186, resource id: 0, major code: 140 (Unknown), minor code: 20
+Xsession: X session started for abc at Wed Jun  8 22:25:20 UTC 2022
+localuser:abc being added to access control list
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting USER=abc
+dbus-update-activation-environment: setting HOME=/config
+dbus-update-activation-environment: setting XRDP_PULSE_SINK_SOCKET=xrdp_chansrv_audio_out_socket_12
+dbus-update-activation-environment: setting XRDP_PULSE_SOURCE_SOCKET=xrdp_chansrv_audio_in_socket_12
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-GpzqY2Z4Lh,guid=ee5ab9513b0df3c8ae742f5d62a121d1
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting LOGNAME=abc
+dbus-update-activation-environment: setting PATH=/sbin:/bin:/usr/bin:/usr/local/bin
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/run/xrdp/sockdir
+dbus-update-activation-environment: setting DISPLAY=:12.0
+dbus-update-activation-environment: setting UID=1028
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/config/.gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/config
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+qt.qpa.xcb: QXcbConnection: XCB error: 148 (Unknown), sequence: 186, resource id: 0, major code: 140 (Unknown), minor code: 20
+Xsession: X session started for abc at Thu Jun  9 11:03:11 UTC 2022
+localuser:abc being added to access control list
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting USER=abc
+dbus-update-activation-environment: setting HOME=/config
+dbus-update-activation-environment: setting XRDP_PULSE_SINK_SOCKET=xrdp_chansrv_audio_out_socket_13
+dbus-update-activation-environment: setting XRDP_PULSE_SOURCE_SOCKET=xrdp_chansrv_audio_in_socket_13
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-hP951DNjxs,guid=2731a2841d5ab473d9c9f49062a1d371
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting LOGNAME=abc
+dbus-update-activation-environment: setting PATH=/sbin:/bin:/usr/bin:/usr/local/bin
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/run/xrdp/sockdir
+dbus-update-activation-environment: setting DISPLAY=:13.0
+dbus-update-activation-environment: setting UID=1028
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/config/.gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/config
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+qt.qpa.xcb: QXcbConnection: XCB error: 148 (Unknown), sequence: 186, resource id: 0, major code: 140 (Unknown), minor code: 20
+Xsession: X session started for abc at Mon Jun 13 00:09:58 UTC 2022
+localuser:abc being added to access control list
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting USER=abc
+dbus-update-activation-environment: setting HOME=/config
+dbus-update-activation-environment: setting XRDP_PULSE_SINK_SOCKET=xrdp_chansrv_audio_out_socket_14
+dbus-update-activation-environment: setting XRDP_PULSE_SOURCE_SOCKET=xrdp_chansrv_audio_in_socket_14
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-Z8hjxvaBRp,guid=b0fb4d8db946dac57457518962a68058
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting LOGNAME=abc
+dbus-update-activation-environment: setting PATH=/sbin:/bin:/usr/bin:/usr/local/bin
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/run/xrdp/sockdir
+dbus-update-activation-environment: setting DISPLAY=:14.0
+dbus-update-activation-environment: setting UID=1028
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/config/.gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/config
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+qt.qpa.xcb: QXcbConnection: XCB error: 148 (Unknown), sequence: 186, resource id: 0, major code: 140 (Unknown), minor code: 20
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+Unable to detect a web browser to launch 'http://127.0.0.1:8081'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+Unable to detect a web browser to launch 'http://127.0.0.1:8081'
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 4871, resource id: 8389042, major code: 40 (TranslateCoords), minor code: 0
+Xsession: X session started for abc at Mon Jun 13 16:58:36 UTC 2022
+localuser:abc being added to access control list
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting USER=abc
+dbus-update-activation-environment: setting HOME=/config
+dbus-update-activation-environment: setting XRDP_PULSE_SINK_SOCKET=xrdp_chansrv_audio_out_socket_15
+dbus-update-activation-environment: setting XRDP_PULSE_SOURCE_SOCKET=xrdp_chansrv_audio_in_socket_15
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-80ARvUUGWm,guid=33e2a08234e415a1aa9763aa62a76cbd
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting LOGNAME=abc
+dbus-update-activation-environment: setting PATH=/sbin:/bin:/usr/bin:/usr/local/bin
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/run/xrdp/sockdir
+dbus-update-activation-environment: setting DISPLAY=:15.0
+dbus-update-activation-environment: setting UID=1028
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/config/.gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/config
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+Unable to detect a web browser to launch 'http://127.0.0.1:8081'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+Unable to detect a web browser to launch 'http://127.0.0.1:8081'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+Unable to detect a web browser to launch 'http://127.0.0.1:8081'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+Unable to detect a web browser to launch 'http://127.0.0.1:8081'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+Unable to detect a web browser to launch 'http://127.0.0.1:8081'
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 23639, resource id: 8396577, major code: 40 (TranslateCoords), minor code: 0
+connect: ('mx01.mail.icloud.com.', 25)
+connect: to ('mx01.mail.icloud.com.', 25) None
+Failed to connect to Portal Notifications service
+reply: b'220 iCloud SMTP - st11p00im-smtpin005.me.com 3.5.0 (2214BSE1-b9efd0eec146)\r\n'
+reply: retcode (220); Msg: b'iCloud SMTP - st11p00im-smtpin005.me.com 3.5.0 (2214BSE1-b9efd0eec146)'
+connect: b'iCloud SMTP - st11p00im-smtpin005.me.com 3.5.0 (2214BSE1-b9efd0eec146)'
+send: 'ehlo [172.18.0.6]\r\n'
+reply: b'250-st11p00im-smtpin005.me.com\r\n'
+reply: b'250-PIPELINING\r\n'
+reply: b'250-SIZE 28311552\r\n'
+reply: b'250-ETRN\r\n'
+reply: b'250-STARTTLS\r\n'
+reply: b'250-ENHANCEDSTATUSCODES\r\n'
+reply: b'250-8BITMIME\r\n'
+reply: b'250-DSN\r\n'
+reply: b'250 CHUNKING\r\n'
+reply: retcode (250); Msg: b'st11p00im-smtpin005.me.com\nPIPELINING\nSIZE 28311552\nETRN\nSTARTTLS\nENHANCEDSTATUSCODES\n8BITMIME\nDSN\nCHUNKING'
+send: 'mail FROM:<tpayne2345@gmail.com> size=1802279\r\n'
+reply: b'250 2.1.0 Ok\r\n'
+reply: retcode (250); Msg: b'2.1.0 Ok'
+send: 'rcpt TO:<tpayne2345@icloud.com>\r\n'
+reply: b'250 2.1.5 Ok\r\n'
+reply: retcode (250); Msg: b'2.1.5 Ok'
+send: 'data\r\n'
+reply: b'354 End data with <CR><LF>.<CR><LF>\r\n'
+reply: retcode (354); Msg: b'End data with <CR><LF>.<CR><LF>'
+data: (354, b'End data with <CR><LF>.<CR><LF>')
+send: b'From: tpayne2345@gmail.com\r\nTo: tpayne2345@icloud.com\r\nSubject: New Books!\r\nDate: Mon, 13 Ju...
+reply: b'250 2.0.0 Ok: queued as 94DBEAC5E2E\r\n'
+reply: retcode (250); Msg: b'2.0.0 Ok: queued as 94DBEAC5E2E'
+data: (250, b'2.0.0 Ok: queued as 94DBEAC5E2E')
+send: 'quit\r\n'
+reply: b'221 2.0.0 Bye\r\n'
+reply: retcode (221); Msg: b'2.0.0 Bye'
+Find mail exchanger for icloud.com
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+Xsession: X session started for abc at Mon Jun 13 19:29:49 UTC 2022
+localuser:abc being added to access control list
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting USER=abc
+dbus-update-activation-environment: setting HOME=/config
+dbus-update-activation-environment: setting XRDP_PULSE_SINK_SOCKET=xrdp_chansrv_audio_out_socket_16
+dbus-update-activation-environment: setting XRDP_PULSE_SOURCE_SOCKET=xrdp_chansrv_audio_in_socket_16
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-GfYOFOvlH6,guid=642f83ed8e5ce88ec0a2e34462a7902e
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting LOGNAME=abc
+dbus-update-activation-environment: setting PATH=/sbin:/bin:/usr/bin:/usr/local/bin
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/run/xrdp/sockdir
+dbus-update-activation-environment: setting DISPLAY=:16.0
+dbus-update-activation-environment: setting UID=1028
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/config/.gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/config
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 2984, resource id: 8389454, major code: 40 (TranslateCoords), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 48473, resource id: 8391058, major code: 40 (TranslateCoords), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 48957, resource id: 8391484, major code: 40 (TranslateCoords), minor code: 0
+Restarting with: /opt/calibre/bin/calibre
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+Unable to detect a web browser to launch 'https://www.bookfusion.com/calibre-api/v1/api-key'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+Unable to detect a web browser to launch 'https://www.bookfusion.com/calibre-api/v1/api-key'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+Unable to detect a web browser to launch 'https://www.bookfusion.com/calibre-api/v1/api-key'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+Unable to detect a web browser to launch 'https://www.bookfusion.com/calibre-api/v1/api-key'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+Unable to detect a web browser to launch 'https://www.bookfusion.com/calibre-api/v1/api-key'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+Unable to detect a web browser to launch 'https://www.bookfusion.com/calibre-api/v1/api-key'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+Unable to detect a web browser to launch 'https://www.bookfusion.com/calibre-api/v1/api-key'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+Unable to detect a web browser to launch 'https://www.bookfusion.com/calibre-api/v1/api-key'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+Unable to detect a web browser to launch 'https://www.bookfusion.com/calibre-api/v1/api-key'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+Unable to detect a web browser to launch 'https://www.bookfusion.com/calibre-api/v1/api-key'
+2022-06-13 19:20:50.581534 Open sync dialog: selected_book_ids=[6]; is_sync_selected=True
+2022-06-13 19:28:46.451695 Start sync: sync_selected=False; book_ids=[1, 2, 3, 4, 5, 6]
+2022-06-13 19:28:46.744558 Fetch limits: AuthenticationRequiredError
+2022-06-13 19:31:35.776978 Start sync: sync_selected=False; book_ids=[1, 2, 3, 4, 5, 6]
+2022-06-13 19:31:36.048257 Fetch limits response: b'{"total_books":25,"filesize":61457280,"message":"\\u003ch2 style=\\"text-align: center\\"\\u003ePremium Reader\\u003c/h2\\u003e\\n\\u003cp style=\\"font-weight: normal; text-align: center\\"\\u003e\\n    Get unlimited storage to read\\u003cbr\\u003e\\n    share and sync your eBook cloud library across all devices.\\n\\u003c/p\\u003e\\n\\u003cp style=\\"font-weight: normal\\"\\u003e\\n    Your Calibre Collection is currently exceeds our free\\n    offering of 25 eBooks not larger than 58 MB each.\\n\\u003c/p\\u003e\\n\\u003cp style=\\"font-weight: normal\\"\\u003e\\n    For a limited time early adopters that subscribe will get a lifetime\\n    discount on their selected plans.\\n\\u003c/p\\u003e\\n\\u003cp style=\\"font-weight: normal\\"\\u003e\\n    This allows us to continuously add new features and\\n    build an eBook platform that you love without relying\\n    on ads and protecting our readers privacy.\\n\\u003c/p\\u003e\\n\\u003cp style=\\"font-weight: normal\\"\\u003e\\n    To create your subscription you can get started by\\n    visiting \\u003ca href=\\"https://www.bookfusion.com/users/edit?tab=billing\\"\\u003eyour billing settings page\\u003c/a\\u003e.\\n\\u003c/p\\u003e\\n\\u003cp style=\\"font-weight: normal\\"\\u003e\\n    In the meanwhile, do you want to partially synchronize\\n    your eBooks to try our platform?\\n\\u003c/p\\u003e\\n"}'
+2022-06-13 19:31:36.048755 Limits: {'total_books': 25, 'filesize': 61457280, 'message': '<h2 style="text-align: center">Premium Reader</h2>\n<p style="font-weight: normal; text-align: center">\n    Get unlimited storage to read<br>\n    share and sync your eBook cloud library across all devices.\n</p>\n<p style="font-weight: normal">\n    Your Calibre Collection is currently exceeds our free\n    offering of 25 eBooks not larger than 58 MB each.\n</p>\n<p style="font-weight: normal">\n    For a limited time early adopters that subscribe will get a lifetime\n    discount on their selected plans.\n</p>\n<p style="font-weight: normal">\n    This allows us to continuously add new features and\n    build an eBook platform that you love without relying\n    on ads and protecting our readers privacy.\n</p>\n<p style="font-weight: normal">\n    To create your subscription you can get started by\n    visiting <a href="https://www.bookfusion.com/users/edit?tab=billing">your billing settings page</a>.\n</p>\n<p style="font-weight: normal">\n    In the meanwhile, do you want to partially synchronize\n    your eBooks to try our platform?\n</p>\n'}
+2022-06-13 19:31:36.048940 File: book_id=1
+2022-06-13 19:31:36.049510 File ok: book_id=1
+2022-06-13 19:31:36.049722 File: book_id=2
+2022-06-13 19:31:36.049955 File ok: book_id=2
+2022-06-13 19:31:36.050040 File: book_id=3
+2022-06-13 19:31:36.050355 File ok: book_id=3
+2022-06-13 19:31:36.050541 File: book_id=4
+2022-06-13 19:31:36.050825 File ok: book_id=4
+2022-06-13 19:31:36.050956 File: book_id=5
+2022-06-13 19:31:36.051347 File ok: book_id=5
+2022-06-13 19:31:36.051493 File: book_id=6
+2022-06-13 19:31:36.052763 File ok: book_id=6
+2022-06-13 19:31:36.053099 Check results: books_count=6; valid_ids=[1, 2, 3, 4, 5, 6]
+2022-06-13 19:31:36.057115 Upload book: book_id=6; title=The Eyes of the Dragon
+2022-06-13 19:31:36.057654 [worker-1] Upload check: isbn=9781501141195
+2022-06-13 19:31:36.058315 Upload book: book_id=5; title=Outsider
+2022-06-13 19:31:36.081561 [worker-0] Upload check: digest=d340c67ecbe6858abc3679fb3434b5b5e203f88cce1ee4f8a436c5fdcb4aeb6d
+2022-06-13 19:31:36.201608 [worker-1] Upload check response: b'[]'
+2022-06-13 19:31:36.462857 [worker-0] Upload check: ContentNotFoundError
+2022-06-13 19:31:36.596861 [worker-0] Upload init response: b'{"url":"https://bookfusion-du.s3.amazonaws.com","params":{"key":"c8ea5002-5fa5-4751-9af1-3ddfbc47a72d/Outsider_-_Stephen_King.epub","policy":"eyJleHBpcmF0aW9uIjoiMjAyMi0wNi0xNFQwMDozMTozOFoiLCJjb25kaXRpb25zIjpbeyJidWNrZXQiOiJib29rZnVzaW9uLWR1In0seyJrZXkiOiJjOGVhNTAwMi01ZmE1LTQ3NTEtOWFmMS0zZGRmYmM0N2E3MmQvT3V0c2lkZXJfLV9TdGVwaGVuX0tpbmcuZXB1YiJ9LFsiY29udGVudC1sZW5ndGgtcmFuZ2UiLDEsNjE0NTcyODBdLHsieC1hbXotY3JlZGVudGlhbCI6IkFLSUFZRFhBM1RRRzMzRERGNldHLzIwMjIwNjEzL3VzLWVhc3QtMS9zMy9hd3M0X3JlcXVlc3QifSx7IngtYW16LWFsZ29yaXRobSI6IkFXUzQtSE1BQy1TSEEyNTYifSx7IngtYW16LWRhdGUiOiIyMDIyMDYxM1QyMzMxMzhaIn1dfQ==","x-amz-credential":"AKIAYDXA3TQG33DDF6WG/20220613/us-east-1/s3/aws4_request","x-amz-algorithm":"AWS4-HMAC-SHA256","x-amz-date":"20220613T233138Z","x-amz-signature":"14069da8b7c2c9a912a5847d537637bd96a4f66f10c0bd9a5eb6b535c5b46e06"}}'
+2022-06-13 19:31:36.597571 [worker-0] key=c8ea5002-5fa5-4751-9af1-3ddfbc47a72d/Outsider_-_Stephen_King.epub
+2022-06-13 19:31:36.597756 [worker-0] policy=eyJleHBpcmF0aW9uIjoiMjAyMi0wNi0xNFQwMDozMTozOFoiLCJjb25kaXRpb25zIjpbeyJidWNrZXQiOiJib29rZnVzaW9uLWR1In0seyJrZXkiOiJjOGVhNTAwMi01ZmE1LTQ3NTEtOWFmMS0zZGRmYmM0N2E3MmQvT3V0c2lkZXJfLV9TdGVwaGVuX0tpbmcuZXB1YiJ9LFsiY29udGVudC1sZW5ndGgtcmFuZ2UiLDEsNjE0NTcyODBdLHsieC1hbXotY3JlZGVudGlhbCI6IkFLSUFZRFhBM1RRRzMzRERGNldHLzIwMjIwNjEzL3VzLWVhc3QtMS9zMy9hd3M0X3JlcXVlc3QifSx7IngtYW16LWFsZ29yaXRobSI6IkFXUzQtSE1BQy1TSEEyNTYifSx7IngtYW16LWRhdGUiOiIyMDIyMDYxM1QyMzMxMzhaIn1dfQ==
+2022-06-13 19:31:36.597876 [worker-0] x-amz-credential=AKIAYDXA3TQG33DDF6WG/20220613/us-east-1/s3/aws4_request
+2022-06-13 19:31:36.598009 [worker-0] x-amz-algorithm=AWS4-HMAC-SHA256
+2022-06-13 19:31:36.598133 [worker-0] x-amz-date=20220613T233138Z
+2022-06-13 19:31:36.598245 [worker-0] x-amz-signature=14069da8b7c2c9a912a5847d537637bd96a4f66f10c0bd9a5eb6b535c5b46e06
+2022-06-13 19:31:36.611810 [worker-1] Upload init response: b'{"url":"https://bookfusion-du.s3.amazonaws.com","params":{"key":"970a3b20-540a-4a4f-8392-464edec9c6bc/The_Eyes_of_the_Dragon_-_Stephen_King.epub","policy":"eyJleHBpcmF0aW9uIjoiMjAyMi0wNi0xNFQwMDozMTozOFoiLCJjb25kaXRpb25zIjpbeyJidWNrZXQiOiJib29rZnVzaW9uLWR1In0seyJrZXkiOiI5NzBhM2IyMC01NDBhLTRhNGYtODM5Mi00NjRlZGVjOWM2YmMvVGhlX0V5ZXNfb2ZfdGhlX0RyYWdvbl8tX1N0ZXBoZW5fS2luZy5lcHViIn0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSw2MTQ1NzI4MF0seyJ4LWFtei1jcmVkZW50aWFsIjoiQUtJQVlEWEEzVFFHMzNEREY2V0cvMjAyMjA2MTMvdXMtZWFzdC0xL3MzL2F3czRfcmVxdWVzdCJ9LHsieC1hbXotYWxnb3JpdGhtIjoiQVdTNC1ITUFDLVNIQTI1NiJ9LHsieC1hbXotZGF0ZSI6IjIwMjIwNjEzVDIzMzEzOFoifV19","x-amz-credential":"AKIAYDXA3TQG33DDF6WG/20220613/us-east-1/s3/aws4_request","x-amz-algorithm":"AWS4-HMAC-SHA256","x-amz-date":"20220613T233138Z","x-amz-signature":"a6f6a6151409b8aae0b073d79a4f18810bdc633e8538ebc62fb25261a7e51c9f"}}'
+2022-06-13 19:31:36.612255 [worker-1] key=970a3b20-540a-4a4f-8392-464edec9c6bc/The_Eyes_of_the_Dragon_-_Stephen_King.epub
+2022-06-13 19:31:36.612392 [worker-1] policy=eyJleHBpcmF0aW9uIjoiMjAyMi0wNi0xNFQwMDozMTozOFoiLCJjb25kaXRpb25zIjpbeyJidWNrZXQiOiJib29rZnVzaW9uLWR1In0seyJrZXkiOiI5NzBhM2IyMC01NDBhLTRhNGYtODM5Mi00NjRlZGVjOWM2YmMvVGhlX0V5ZXNfb2ZfdGhlX0RyYWdvbl8tX1N0ZXBoZW5fS2luZy5lcHViIn0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMSw2MTQ1NzI4MF0seyJ4LWFtei1jcmVkZW50aWFsIjoiQUtJQVlEWEEzVFFHMzNEREY2V0cvMjAyMjA2MTMvdXMtZWFzdC0xL3MzL2F3czRfcmVxdWVzdCJ9LHsieC1hbXotYWxnb3JpdGhtIjoiQVdTNC1ITUFDLVNIQTI1NiJ9LHsieC1hbXotZGF0ZSI6IjIwMjIwNjEzVDIzMzEzOFoifV19
+2022-06-13 19:31:36.612490 [worker-1] x-amz-credential=AKIAYDXA3TQG33DDF6WG/20220613/us-east-1/s3/aws4_request
+2022-06-13 19:31:36.612582 [worker-1] x-amz-algorithm=AWS4-HMAC-SHA256
+2022-06-13 19:31:36.612674 [worker-1] x-amz-date=20220613T233138Z
+2022-06-13 19:31:36.612763 [worker-1] x-amz-signature=a6f6a6151409b8aae0b073d79a4f18810bdc633e8538ebc62fb25261a7e51c9f
+2022-06-13 19:31:37.110143 [worker-0] Upload response: b''
+2022-06-13 19:31:40.173761 [worker-0] Upload finalize response: b'{"id":2369499}'
+2022-06-13 19:31:42.701153 Upload book: book_id=4; title=Skeleton Crew: The Raft
+2022-06-13 19:31:42.716810 [worker-0] Upload check: digest=b69647a848781fe2a8aec4dc85586a9e2b11b9aab2ff7f8f98e479981b2ee194
+2022-06-13 19:31:42.717733 [worker-1] Upload response: b''
+2022-06-13 19:31:42.758774 [worker-0] Upload check: ContentNotFoundError
+2022-06-13 19:31:42.860499 [worker-0] Upload init response: b'{"url":"https://bookfusion-du.s3.amazonaws.com","params":{"key":"6277a5bd-9cb7-4085-b0db-4493e5ac448e/Skeleton_Crew__The_Raft_-_Stephen_King.epub","policy":"eyJleHBpcmF0aW9uIjoiMjAyMi0wNi0xNFQwMDozMTo0NFoiLCJjb25kaXRpb25zIjpbeyJidWNrZXQiOiJib29rZnVzaW9uLWR1In0seyJrZXkiOiI2Mjc3YTViZC05Y2I3LTQwODUtYjBkYi00NDkzZTVhYzQ0OGUvU2tlbGV0b25fQ3Jld19fVGhlX1JhZnRfLV9TdGVwaGVuX0tpbmcuZXB1YiJ9LFsiY29udGVudC1sZW5ndGgtcmFuZ2UiLDEsNjE0NTcyODBdLHsieC1hbXotY3JlZGVudGlhbCI6IkFLSUFZRFhBM1RRRzMzRERGNldHLzIwMjIwNjEzL3VzLWVhc3QtMS9zMy9hd3M0X3JlcXVlc3QifSx7IngtYW16LWFsZ29yaXRobSI6IkFXUzQtSE1BQy1TSEEyNTYifSx7IngtYW16LWRhdGUiOiIyMDIyMDYxM1QyMzMxNDRaIn1dfQ==","x-amz-credential":"AKIAYDXA3TQG33DDF6WG/20220613/us-east-1/s3/aws4_request","x-amz-algorithm":"AWS4-HMAC-SHA256","x-amz-date":"20220613T233144Z","x-amz-signature":"719facbf7c7a54e9766a2e7340e3ff221f5bc9ebd636a31fb780df888bc8f0b8"}}'
+2022-06-13 19:31:42.860899 [worker-0] key=6277a5bd-9cb7-4085-b0db-4493e5ac448e/Skeleton_Crew__The_Raft_-_Stephen_King.epub
+2022-06-13 19:31:42.861033 [worker-0] policy=eyJleHBpcmF0aW9uIjoiMjAyMi0wNi0xNFQwMDozMTo0NFoiLCJjb25kaXRpb25zIjpbeyJidWNrZXQiOiJib29rZnVzaW9uLWR1In0seyJrZXkiOiI2Mjc3YTViZC05Y2I3LTQwODUtYjBkYi00NDkzZTVhYzQ0OGUvU2tlbGV0b25fQ3Jld19fVGhlX1JhZnRfLV9TdGVwaGVuX0tpbmcuZXB1YiJ9LFsiY29udGVudC1sZW5ndGgtcmFuZ2UiLDEsNjE0NTcyODBdLHsieC1hbXotY3JlZGVudGlhbCI6IkFLSUFZRFhBM1RRRzMzRERGNldHLzIwMjIwNjEzL3VzLWVhc3QtMS9zMy9hd3M0X3JlcXVlc3QifSx7IngtYW16LWFsZ29yaXRobSI6IkFXUzQtSE1BQy1TSEEyNTYifSx7IngtYW16LWRhdGUiOiIyMDIyMDYxM1QyMzMxNDRaIn1dfQ==
+2022-06-13 19:31:42.861151 [worker-0] x-amz-credential=AKIAYDXA3TQG33DDF6WG/20220613/us-east-1/s3/aws4_request
+2022-06-13 19:31:42.861246 [worker-0] x-amz-algorithm=AWS4-HMAC-SHA256
+2022-06-13 19:31:42.861337 [worker-0] x-amz-date=20220613T233144Z
+2022-06-13 19:31:42.861427 [worker-0] x-amz-signature=719facbf7c7a54e9766a2e7340e3ff221f5bc9ebd636a31fb780df888bc8f0b8
+2022-06-13 19:31:43.142158 [worker-0] Upload response: b''
+2022-06-13 19:31:45.452197 [worker-1] Upload finalize response: b'{"id":2369500}'
+2022-06-13 19:31:46.784391 Upload book: book_id=3; title=Harry Potter and the Chamber Of Secrets: Ravenclaw Edition
+2022-06-13 19:31:46.816468 [worker-1] Upload check: digest=9a0040b8cd81799b5aca95ec6ebd99204b22599a06288a2c3adfd5f5082aab06
+2022-06-13 19:31:46.817440 [worker-0] Upload finalize response: b'{"id":2369501}'
+2022-06-13 19:31:48.358484 Upload book: book_id=2; title=The Dark Tower
+2022-06-13 19:31:48.359111 [worker-0] Upload check: isbn=9780743266796
+2022-06-13 19:31:48.359710 [worker-1] Upload check: ContentNotFoundError
+2022-06-13 19:31:48.399346 [worker-0] Upload check response: b'[]'
+2022-06-13 19:31:48.519227 [worker-1] Upload init response: b'{"url":"https://bookfusion-du.s3.amazonaws.com","params":{"key":"837d7e62-7bb7-4dea-ae4f-c754712df1e8/Harry_Potter_and_the_Chamber_Of_Secrets__R_-_J.K._Rowling.epub","policy":"eyJleHBpcmF0aW9uIjoiMjAyMi0wNi0xNFQwMDozMTo1MFoiLCJjb25kaXRpb25zIjpbeyJidWNrZXQiOiJib29rZnVzaW9uLWR1In0seyJrZXkiOiI4MzdkN2U2Mi03YmI3LTRkZWEtYWU0Zi1jNzU0NzEyZGYxZTgvSGFycnlfUG90dGVyX2FuZF90aGVfQ2hhbWJlcl9PZl9TZWNyZXRzX19SXy1fSi5LLl9Sb3dsaW5nLmVwdWIifSxbImNvbnRlbnQtbGVuZ3RoLXJhbmdlIiwxLDYxNDU3MjgwXSx7IngtYW16LWNyZWRlbnRpYWwiOiJBS0lBWURYQTNUUUczM0RERjZXRy8yMDIyMDYxMy91cy1lYXN0LTEvczMvYXdzNF9yZXF1ZXN0In0seyJ4LWFtei1hbGdvcml0aG0iOiJBV1M0LUhNQUMtU0hBMjU2In0seyJ4LWFtei1kYXRlIjoiMjAyMjA2MTNUMjMzMTUwWiJ9XX0=","x-amz-credential":"AKIAYDXA3TQG33DDF6WG/20220613/us-east-1/s3/aws4_request","x-amz-algorithm":"AWS4-HMAC-SHA256","x-amz-date":"20220613T233150Z","x-amz-signature":"aefb317ef5aa6dfb2097d30cb668e644b4836a3ea9ce598d41df6ec0b63b065d"}}'
+2022-06-13 19:31:48.519614 [worker-1] key=837d7e62-7bb7-4dea-ae4f-c754712df1e8/Harry_Potter_and_the_Chamber_Of_Secrets__R_-_J.K._Rowling.epub
+2022-06-13 19:31:48.519738 [worker-1] policy=eyJleHBpcmF0aW9uIjoiMjAyMi0wNi0xNFQwMDozMTo1MFoiLCJjb25kaXRpb25zIjpbeyJidWNrZXQiOiJib29rZnVzaW9uLWR1In0seyJrZXkiOiI4MzdkN2U2Mi03YmI3LTRkZWEtYWU0Zi1jNzU0NzEyZGYxZTgvSGFycnlfUG90dGVyX2FuZF90aGVfQ2hhbWJlcl9PZl9TZWNyZXRzX19SXy1fSi5LLl9Sb3dsaW5nLmVwdWIifSxbImNvbnRlbnQtbGVuZ3RoLXJhbmdlIiwxLDYxNDU3MjgwXSx7IngtYW16LWNyZWRlbnRpYWwiOiJBS0lBWURYQTNUUUczM0RERjZXRy8yMDIyMDYxMy91cy1lYXN0LTEvczMvYXdzNF9yZXF1ZXN0In0seyJ4LWFtei1hbGdvcml0aG0iOiJBV1M0LUhNQUMtU0hBMjU2In0seyJ4LWFtei1kYXRlIjoiMjAyMjA2MTNUMjMzMTUwWiJ9XX0=
+2022-06-13 19:31:48.519882 [worker-1] x-amz-credential=AKIAYDXA3TQG33DDF6WG/20220613/us-east-1/s3/aws4_request
+2022-06-13 19:31:48.519975 [worker-1] x-amz-algorithm=AWS4-HMAC-SHA256
+2022-06-13 19:31:48.520073 [worker-1] x-amz-date=20220613T233150Z
+2022-06-13 19:31:48.520199 [worker-1] x-amz-signature=aefb317ef5aa6dfb2097d30cb668e644b4836a3ea9ce598d41df6ec0b63b065d
+2022-06-13 19:31:48.638617 [worker-0] Upload init response: b'{"url":"https://bookfusion-du.s3.amazonaws.com","params":{"key":"4e66250f-7676-4444-9ba7-d9ebb9431c7c/The_Dark_Tower_-_Stephen_King.epub","policy":"eyJleHBpcmF0aW9uIjoiMjAyMi0wNi0xNFQwMDozMTo1MFoiLCJjb25kaXRpb25zIjpbeyJidWNrZXQiOiJib29rZnVzaW9uLWR1In0seyJrZXkiOiI0ZTY2MjUwZi03Njc2LTQ0NDQtOWJhNy1kOWViYjk0MzFjN2MvVGhlX0RhcmtfVG93ZXJfLV9TdGVwaGVuX0tpbmcuZXB1YiJ9LFsiY29udGVudC1sZW5ndGgtcmFuZ2UiLDEsNjE0NTcyODBdLHsieC1hbXotY3JlZGVudGlhbCI6IkFLSUFZRFhBM1RRRzMzRERGNldHLzIwMjIwNjEzL3VzLWVhc3QtMS9zMy9hd3M0X3JlcXVlc3QifSx7IngtYW16LWFsZ29yaXRobSI6IkFXUzQtSE1BQy1TSEEyNTYifSx7IngtYW16LWRhdGUiOiIyMDIyMDYxM1QyMzMxNTBaIn1dfQ==","x-amz-credential":"AKIAYDXA3TQG33DDF6WG/20220613/us-east-1/s3/aws4_request","x-amz-algorithm":"AWS4-HMAC-SHA256","x-amz-date":"20220613T233150Z","x-amz-signature":"b889818bcff4cb801366b57c1bbf6d5d1e0c9113147352df0123a458c558c00f"}}'
+2022-06-13 19:31:48.639152 [worker-0] key=4e66250f-7676-4444-9ba7-d9ebb9431c7c/The_Dark_Tower_-_Stephen_King.epub
+2022-06-13 19:31:48.639328 [worker-0] policy=eyJleHBpcmF0aW9uIjoiMjAyMi0wNi0xNFQwMDozMTo1MFoiLCJjb25kaXRpb25zIjpbeyJidWNrZXQiOiJib29rZnVzaW9uLWR1In0seyJrZXkiOiI0ZTY2MjUwZi03Njc2LTQ0NDQtOWJhNy1kOWViYjk0MzFjN2MvVGhlX0RhcmtfVG93ZXJfLV9TdGVwaGVuX0tpbmcuZXB1YiJ9LFsiY29udGVudC1sZW5ndGgtcmFuZ2UiLDEsNjE0NTcyODBdLHsieC1hbXotY3JlZGVudGlhbCI6IkFLSUFZRFhBM1RRRzMzRERGNldHLzIwMjIwNjEzL3VzLWVhc3QtMS9zMy9hd3M0X3JlcXVlc3QifSx7IngtYW16LWFsZ29yaXRobSI6IkFXUzQtSE1BQy1TSEEyNTYifSx7IngtYW16LWRhdGUiOiIyMDIyMDYxM1QyMzMxNTBaIn1dfQ==
+2022-06-13 19:31:48.639446 [worker-0] x-amz-credential=AKIAYDXA3TQG33DDF6WG/20220613/us-east-1/s3/aws4_request
+2022-06-13 19:31:48.639572 [worker-0] x-amz-algorithm=AWS4-HMAC-SHA256
+2022-06-13 19:31:48.639703 [worker-0] x-amz-date=20220613T233150Z
+2022-06-13 19:31:48.639832 [worker-0] x-amz-signature=b889818bcff4cb801366b57c1bbf6d5d1e0c9113147352df0123a458c558c00f
+2022-06-13 19:31:48.923901 [worker-1] Upload response: b''
+2022-06-13 19:31:50.227374 [worker-0] Upload response: b''
+2022-06-13 19:31:52.558443 [worker-1] Upload finalize response: b'{"id":2369502}'
+2022-06-13 19:31:54.809190 Upload book: book_id=1; title=Raising Good Humans: A Mindful Guide to Breaking the Cycle of Reactive Parenting and Raising Kind, Confident Kids
+2022-06-13 19:31:54.809815 [worker-1] Upload check: isbn=9781684033904
+2022-06-13 19:31:54.810622 [worker-0] Upload finalize response: b'{"id":2369503}'
+2022-06-13 19:31:56.450521 [worker-1] Upload check response: b'[]'
+2022-06-13 19:31:56.740729 [worker-1] Upload init response: b'{"url":"https://bookfusion-du.s3.amazonaws.com","params":{"key":"6e54904b-dcf0-4877-a7e0-e51d9c6d2f06/Raising_Good_Humans__A_Mindful_Guide_to_Br_-_Hunter_Clarke-Fields.epub","policy":"eyJleHBpcmF0aW9uIjoiMjAyMi0wNi0xNFQwMDozMTo1OFoiLCJjb25kaXRpb25zIjpbeyJidWNrZXQiOiJib29rZnVzaW9uLWR1In0seyJrZXkiOiI2ZTU0OTA0Yi1kY2YwLTQ4NzctYTdlMC1lNTFkOWM2ZDJmMDYvUmFpc2luZ19Hb29kX0h1bWFuc19fQV9NaW5kZnVsX0d1aWRlX3RvX0JyXy1fSHVudGVyX0NsYXJrZS1GaWVsZHMuZXB1YiJ9LFsiY29udGVudC1sZW5ndGgtcmFuZ2UiLDEsNjE0NTcyODBdLHsieC1hbXotY3JlZGVudGlhbCI6IkFLSUFZRFhBM1RRRzMzRERGNldHLzIwMjIwNjEzL3VzLWVhc3QtMS9zMy9hd3M0X3JlcXVlc3QifSx7IngtYW16LWFsZ29yaXRobSI6IkFXUzQtSE1BQy1TSEEyNTYifSx7IngtYW16LWRhdGUiOiIyMDIyMDYxM1QyMzMxNThaIn1dfQ==","x-amz-credential":"AKIAYDXA3TQG33DDF6WG/20220613/us-east-1/s3/aws4_request","x-amz-algorithm":"AWS4-HMAC-SHA256","x-amz-date":"20220613T233158Z","x-amz-signature":"22988cd0061924140fbadf6c2d14cf0ca4c7525c92236228978b9748aa6bffab"}}'
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 17644, resource id: 8393153, major code: 40 (TranslateCoords), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 19811, resource id: 8393895, major code: 40 (TranslateCoords), minor code: 0
+connect: ('gmail-smtp-in.l.google.com.', 25)
+connect: to ('gmail-smtp-in.l.google.com.', 25) None
+reply: b'220 mx.google.com ESMTP h64-20020a813a43000000b0030cbb1a4dc2si16203132ywa.203 - gsmtp\r\n'
+reply: retcode (220); Msg: b'mx.google.com ESMTP h64-20020a813a43000000b0030cbb1a4dc2si16203132ywa.203 - gsmtp'
+connect: b'mx.google.com ESMTP h64-20020a813a43000000b0030cbb1a4dc2si16203132ywa.203 - gsmtp'
+send: 'ehlo [172.18.0.6]\r\n'
+reply: b'250-mx.google.com at your service, [205.144.210.203]\r\n'
+reply: b'250-SIZE 157286400\r\n'
+reply: b'250-8BITMIME\r\n'
+reply: b'250-STARTTLS\r\n'
+reply: b'250-ENHANCEDSTATUSCODES\r\n'
+reply: b'250-PIPELINING\r\n'
+reply: b'250-CHUNKING\r\n'
+reply: b'250 SMTPUTF8\r\n'
+reply: retcode (250); Msg: b'mx.google.com at your service, [205.144.210.203]\nSIZE 157286400\n8BITMIME\nSTARTTLS\nENHANCEDSTATUSCODES\nPIPELINING\nCHUNKING\nSMTPUTF8'
+send: 'mail FROM:<tpayne2345@gmail.com> size=2493068\r\n'
+Failed to connect to Portal Notifications service
+reply: b'250 2.1.0 OK h64-20020a813a43000000b0030cbb1a4dc2si16203132ywa.203 - gsmtp\r\n'
+reply: retcode (250); Msg: b'2.1.0 OK h64-20020a813a43000000b0030cbb1a4dc2si16203132ywa.203 - gsmtp'
+send: 'rcpt TO:<tpayne2345@gmail.com>\r\n'
+reply: b'250 2.1.5 OK h64-20020a813a43000000b0030cbb1a4dc2si16203132ywa.203 - gsmtp\r\n'
+reply: retcode (250); Msg: b'2.1.5 OK h64-20020a813a43000000b0030cbb1a4dc2si16203132ywa.203 - gsmtp'
+send: 'data\r\n'
+reply: b'354  Go ahead h64-20020a813a43000000b0030cbb1a4dc2si16203132ywa.203 - gsmtp\r\n'
+reply: retcode (354); Msg: b'Go ahead h64-20020a813a43000000b0030cbb1a4dc2si16203132ywa.203 - gsmtp'
+data: (354, b'Go ahead h64-20020a813a43000000b0030cbb1a4dc2si16203132ywa.203 - gsmtp')
+send: b'From: tpayne2345@gmail.com\r\nTo: tpayne2345@gmail.com\r\nSubject: test\r\nDate: Wed, 15 Jun 2022 ...
+reply: b'550-5.7.25 [205.144.210.203] The IP address sending this message does not have a\r\n'
+reply: b'550-5.7.25 PTR record setup, or the corresponding forward DNS entry does not\r\n'
+reply: b'550-5.7.25 point to the sending IP. As a policy, Gmail does not accept messages\r\n'
+reply: b'550-5.7.25 from IPs with missing PTR records. Please visit\r\n'
+reply: b'550-5.7.25  https://support.google.com/mail/answer/81126#authentication for more\r\n'
+reply: b'550 5.7.25 information. h64-20020a813a43000000b0030cbb1a4dc2si16203132ywa.203 - gsmtp\r\n'
+reply: retcode (550); Msg: b'5.7.25 [205.144.210.203] The IP address sending this message does not have a\n5.7.25 PTR record setup, or the corresponding forward DNS entry does not\n5.7.25 point to the sending IP. As a policy, Gmail does not accept messages\n5.7.25 from IPs with missing PTR records. Please visit\n5.7.25  https://support.google.com/mail/answer/81126#authentication for more\n5.7.25 information. h64-20020a813a43000000b0030cbb1a4dc2si16203132ywa.203 - gsmtp'
+data: (550, b'5.7.25 [205.144.210.203] The IP address sending this message does not have a\n5.7.25 PTR record setup, or the corresponding forward DNS entry does not\n5.7.25 point to the sending IP. As a policy, Gmail does not accept messages\n5.7.25 from IPs with missing PTR records. Please visit\n5.7.25  https://support.google.com/mail/answer/81126#authentication for more\n5.7.25 information. h64-20020a813a43000000b0030cbb1a4dc2si16203132ywa.203 - gsmtp')
+send: 'rset\r\n'
+connect: ('alt1.gmail-smtp-in.l.google.com.', 25)
+connect: to ('alt1.gmail-smtp-in.l.google.com.', 25) None
+reply: b'220 mx.google.com ESMTP q18-20020a05622a04d200b00304d1f1e88esi22915qtx.161 - gsmtp\r\n'
+reply: retcode (220); Msg: b'mx.google.com ESMTP q18-20020a05622a04d200b00304d1f1e88esi22915qtx.161 - gsmtp'
+connect: b'mx.google.com ESMTP q18-20020a05622a04d200b00304d1f1e88esi22915qtx.161 - gsmtp'
+send: 'mail FROM:<tpayne2345@gmail.com> size=2493068\r\n'
+reply: b'503 5.5.1 EHLO/HELO first. q18-20020a05622a04d200b00304d1f1e88esi22915qtx.161 - gsmtp\r\n'
+reply: retcode (503); Msg: b'5.5.1 EHLO/HELO first. q18-20020a05622a04d200b00304d1f1e88esi22915qtx.161 - gsmtp'
+send: 'rset\r\n'
+reply: b'250 2.1.5 Flushed q18-20020a05622a04d200b00304d1f1e88esi22915qtx.161 - gsmtp\r\n'
+reply: retcode (250); Msg: b'2.1.5 Flushed q18-20020a05622a04d200b00304d1f1e88esi22915qtx.161 - gsmtp'
+connect: ('alt2.gmail-smtp-in.l.google.com.', 25)
+connect: to ('alt2.gmail-smtp-in.l.google.com.', 25) None
+reply: b'220 mx.google.com ESMTP h8-20020a67cb88000000b00349f39e69f6si2915952vsl.591 - gsmtp\r\n'
+reply: retcode (220); Msg: b'mx.google.com ESMTP h8-20020a67cb88000000b00349f39e69f6si2915952vsl.591 - gsmtp'
+connect: b'mx.google.com ESMTP h8-20020a67cb88000000b00349f39e69f6si2915952vsl.591 - gsmtp'
+send: 'mail FROM:<tpayne2345@gmail.com> size=2493068\r\n'
+reply: b'503 5.5.1 EHLO/HELO first. h8-20020a67cb88000000b00349f39e69f6si2915952vsl.591 - gsmtp\r\n'
+reply: retcode (503); Msg: b'5.5.1 EHLO/HELO first. h8-20020a67cb88000000b00349f39e69f6si2915952vsl.591 - gsmtp'
+send: 'rset\r\n'
+reply: b'250 2.1.5 Flushed h8-20020a67cb88000000b00349f39e69f6si2915952vsl.591 - gsmtp\r\n'
+reply: retcode (250); Msg: b'2.1.5 Flushed h8-20020a67cb88000000b00349f39e69f6si2915952vsl.591 - gsmtp'
+connect: ('alt3.gmail-smtp-in.l.google.com.', 25)
+connect: to ('alt3.gmail-smtp-in.l.google.com.', 25) None
+reply: b'220 mx.google.com ESMTP g4-20020a0562141cc400b0045a7955170fsi9796427qvd.516 - gsmtp\r\n'
+reply: retcode (220); Msg: b'mx.google.com ESMTP g4-20020a0562141cc400b0045a7955170fsi9796427qvd.516 - gsmtp'
+connect: b'mx.google.com ESMTP g4-20020a0562141cc400b0045a7955170fsi9796427qvd.516 - gsmtp'
+send: 'mail FROM:<tpayne2345@gmail.com> size=2493068\r\n'
+reply: b'503 5.5.1 EHLO/HELO first. g4-20020a0562141cc400b0045a7955170fsi9796427qvd.516 - gsmtp\r\n'
+reply: retcode (503); Msg: b'5.5.1 EHLO/HELO first. g4-20020a0562141cc400b0045a7955170fsi9796427qvd.516 - gsmtp'
+send: 'rset\r\n'
+reply: b'250 2.1.5 Flushed g4-20020a0562141cc400b0045a7955170fsi9796427qvd.516 - gsmtp\r\n'
+reply: retcode (250); Msg: b'2.1.5 Flushed g4-20020a0562141cc400b0045a7955170fsi9796427qvd.516 - gsmtp'
+connect: ('alt4.gmail-smtp-in.l.google.com.', 25)
+connect: to ('alt4.gmail-smtp-in.l.google.com.', 25) None
+reply: b'220 mx.google.com ESMTP s42-20020a05680820aa00b0032e9d95bfeesi11305290oiw.77 - gsmtp\r\n'
+reply: retcode (220); Msg: b'mx.google.com ESMTP s42-20020a05680820aa00b0032e9d95bfeesi11305290oiw.77 - gsmtp'
+connect: b'mx.google.com ESMTP s42-20020a05680820aa00b0032e9d95bfeesi11305290oiw.77 - gsmtp'
+send: 'mail FROM:<tpayne2345@gmail.com> size=2493068\r\n'
+reply: b'503 5.5.1 EHLO/HELO first. s42-20020a05680820aa00b0032e9d95bfeesi11305290oiw.77 - gsmtp\r\n'
+reply: retcode (503); Msg: b'5.5.1 EHLO/HELO first. s42-20020a05680820aa00b0032e9d95bfeesi11305290oiw.77 - gsmtp'
+send: 'rset\r\n'
+reply: b'250 2.1.5 Flushed s42-20020a05680820aa00b0032e9d95bfeesi11305290oiw.77 - gsmtp\r\n'
+reply: retcode (250); Msg: b'2.1.5 Flushed s42-20020a05680820aa00b0032e9d95bfeesi11305290oiw.77 - gsmtp'
+connect: ('gmail-smtp-in.l.google.com.', 25)
+connect: to ('gmail-smtp-in.l.google.com.', 25) None
+reply: b'220 mx.google.com ESMTP 67-20020a251146000000b00664961fa3ffsi14569801ybr.345 - gsmtp\r\n'
+reply: retcode (220); Msg: b'mx.google.com ESMTP 67-20020a251146000000b00664961fa3ffsi14569801ybr.345 - gsmtp'
+connect: b'mx.google.com ESMTP 67-20020a251146000000b00664961fa3ffsi14569801ybr.345 - gsmtp'
+send: 'ehlo [172.18.0.6]\r\n'
+reply: b'250-mx.google.com at your service, [205.144.210.203]\r\n'
+reply: b'250-SIZE 157286400\r\n'
+reply: b'250-8BITMIME\r\n'
+reply: b'250-STARTTLS\r\n'
+reply: b'250-ENHANCEDSTATUSCODES\r\n'
+reply: b'250-PIPELINING\r\n'
+reply: b'250-CHUNKING\r\n'
+reply: b'250 SMTPUTF8\r\n'
+reply: retcode (250); Msg: b'mx.google.com at your service, [205.144.210.203]\nSIZE 157286400\n8BITMIME\nSTARTTLS\nENHANCEDSTATUSCODES\nPIPELINING\nCHUNKING\nSMTPUTF8'
+send: 'mail FROM:<tpayne2345@gmail.com> size=2493068\r\n'
+reply: b'250 2.1.0 OK 67-20020a251146000000b00664961fa3ffsi14569801ybr.345 - gsmtp\r\n'
+reply: retcode (250); Msg: b'2.1.0 OK 67-20020a251146000000b00664961fa3ffsi14569801ybr.345 - gsmtp'
+send: 'rcpt TO:<tpayne2345@gmail.com>\r\n'
+reply: b'250 2.1.5 OK 67-20020a251146000000b00664961fa3ffsi14569801ybr.345 - gsmtp\r\n'
+reply: retcode (250); Msg: b'2.1.5 OK 67-20020a251146000000b00664961fa3ffsi14569801ybr.345 - gsmtp'qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 26631, resource id: 8395778, major code: 40 (TranslateCoords), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 15303, resource id: 8397407, major code: 40 (TranslateCoords), minor code: 0
+
+send: 'data\r\n'
+reply: b'354  Go ahead 67-20020a251146000000b00664961fa3ffsi14569801ybr.345 - gsmtp\r\n'
+reply: retcode (354); Msg: b'Go ahead 67-20020a251146000000b00664961fa3ffsi14569801ybr.345 - gsmtp'
+data: (354, b'Go ahead 67-20020a251146000000b00664961fa3ffsi14569801ybr.345 - gsmtp')
+send: b'From: tpayne2345@gmail.com\r\nTo: tpayne2345@gmail.com\r\nSubject: test\r\nDate: Wed, 15 Jun 2022 ...
+reply: b'550-5.7.25 [205.144.210.203] The IP address sending this message does not have a\r\n'
+reply: b'550-5.7.25 PTR record setup, or the corresponding forward DNS entry does not\r\n'
+reply: b'550-5.7.25 point to the sending IP. As a policy, Gmail does not accept messages\r\n'
+reply: b'550-5.7.25 from IPs with missing PTR records. Please visit\r\n'
+reply: b'550-5.7.25  https://support.google.com/mail/answer/81126#authentication for more\r\n'
+reply: b'550 5.7.25 information. 67-20020a251146000000b00664961fa3ffsi14569801ybr.345 - gsmtp\r\n'
+reply: retcode (550); Msg: b'5.7.25 [205.144.210.203] The IP address sending this message does not have a\n5.7.25 PTR record setup, or the corresponding forward DNS entry does not\n5.7.25 point to the sending IP. As a policy, Gmail does not accept messages\n5.7.25 from IPs with missing PTR records. Please visit\n5.7.25  https://support.google.com/mail/answer/81126#authentication for more\n5.7.25 information. 67-20020a251146000000b00664961fa3ffsi14569801ybr.345 - gsmtp'
+data: (550, b'5.7.25 [205.144.210.203] The IP address sending this message does not have a\n5.7.25 PTR record setup, or the corresponding forward DNS entry does not\n5.7.25 point to the sending IP. As a policy, Gmail does not accept messages\n5.7.25 from IPs with missing PTR records. Please visit\n5.7.25  https://support.google.com/mail/answer/81126#authentication for more\n5.7.25 information. 67-20020a251146000000b00664961fa3ffsi14569801ybr.345 - gsmtp')
+send: 'rset\r\n'
+connect: ('alt1.gmail-smtp-in.l.google.com.', 25)
+connect: to ('alt1.gmail-smtp-in.l.google.com.', 25) None
+reply: b'220 mx.google.com ESMTP jx7-20020a0562142b0700b0045a8702fd54si9824247qvb.559 - gsmtp\r\n'
+reply: retcode (220); Msg: b'mx.google.com ESMTP jx7-20020a0562142b0700b0045a8702fd54si9824247qvb.559 - gsmtp'
+connect: b'mx.google.com ESMTP jx7-20020a0562142b0700b0045a8702fd54si9824247qvb.559 - gsmtp'
+send: 'mail FROM:<tpayne2345@gmail.com> size=2493068\r\n'
+reply: b'503 5.5.1 EHLO/HELO first. jx7-20020a0562142b0700b0045a8702fd54si9824247qvb.559 - gsmtp\r\n'
+reply: retcode (503); Msg: b'5.5.1 EHLO/HELO first. jx7-20020a0562142b0700b0045a8702fd54si9824247qvb.559 - gsmtp'
+send: 'rset\r\n'
+reply: b'250 2.1.5 Flushed jx7-20020a0562142b0700b0045a8702fd54si9824247qvb.559 - gsmtp\r\n'
+reply: retcode (250); Msg: b'2.1.5 Flushed jx7-20020a0562142b0700b0045a8702fd54si9824247qvb.559 - gsmtp'
+connect: ('alt2.gmail-smtp-in.l.google.com.', 25)
+connect: to ('alt2.gmail-smtp-in.l.google.com.', 25) None
+reply: b'220 mx.google.com ESMTP n11-20020a67a40b000000b0034c4573e761si2958919vse.408 - gsmtp\r\n'
+reply: retcode (220); Msg: b'mx.google.com ESMTP n11-20020a67a40b000000b0034c4573e761si2958919vse.408 - gsmtp'
+connect: b'mx.google.com ESMTP n11-20020a67a40b000000b0034c4573e761si2958919vse.408 - gsmtp'
+send: 'mail FROM:<tpayne2345@gmail.com> size=2493068\r\n'
+reply: b'503 5.5.1 EHLO/HELO first. n11-20020a67a40b000000b0034c4573e761si2958919vse.408 - gsmtp\r\n'
+reply: retcode (503); Msg: b'5.5.1 EHLO/HELO first. n11-20020a67a40b000000b0034c4573e761si2958919vse.408 - gsmtp'
+send: 'rset\r\n'
+reply: b'250 2.1.5 Flushed n11-20020a67a40b000000b0034c4573e761si2958919vse.408 - gsmtp\r\n'
+reply: retcode (250); Msg: b'2.1.5 Flushed n11-20020a67a40b000000b0034c4573e761si2958919vse.408 - gsmtp'
+connect: ('alt3.gmail-smtp-in.l.google.com.', 25)
+connect: to ('alt3.gmail-smtp-in.l.google.com.', 25) None
+reply: b'220 mx.google.com ESMTP x15-20020a05622a000f00b00304df7337acsi9083722qtw.603 - gsmtp\r\n'
+reply: retcode (220); Msg: b'mx.google.com ESMTP x15-20020a05622a000f00b00304df7337acsi9083722qtw.603 - gsmtp'
+connect: b'mx.google.com ESMTP x15-20020a05622a000f00b00304df7337acsi9083722qtw.603 - gsmtp'
+send: 'mail FROM:<tpayne2345@gmail.com> size=2493068\r\n'
+reply: b'503 5.5.1 EHLO/HELO first. x15-20020a05622a000f00b00304df7337acsi9083722qtw.603 - gsmtp\r\n'
+reply: retcode (503); Msg: b'5.5.1 EHLO/HELO first. x15-20020a05622a000f00b00304df7337acsi9083722qtw.603 - gsmtp'
+send: 'rset\r\n'
+reply: b'250 2.1.5 Flushed x15-20020a05622a000f00b00304df7337acsi9083722qtw.603 - gsmtp\r\n'
+reply: retcode (250); Msg: b'2.1.5 Flushed x15-20020a05622a000f00b00304df7337acsi9083722qtw.603 - gsmtp'
+connect: ('alt4.gmail-smtp-in.l.google.com.', 25)
+connect: to ('alt4.gmail-smtp-in.l.google.com.', 25) None
+reply: b'220 mx.google.com ESMTP u6-20020a056870f28600b000f18f95ae73si13380177oap.129 - gsmtp\r\n'
+reply: retcode (220); Msg: b'mx.google.com ESMTP u6-20020a056870f28600b000f18f95ae73si13380177oap.129 - gsmtp'
+connect: b'mx.google.com ESMTP u6-20020a056870f28600b000f18f95ae73si13380177oap.129 - gsmtp'
+send: 'mail FROM:<tpayne2345@gmail.com> size=2493068\r\n'
+reply: b'503 5.5.1 EHLO/HELO first. u6-20020a056870f28600b000f18f95ae73si13380177oap.129 - gsmtp\r\n'
+reply: retcode (503); Msg: b'5.5.1 EHLO/HELO first. u6-20020a056870f28600b000f18f95ae73si13380177oap.129 - gsmtp'
+send: 'rset\r\n'
+reply: b'250 2.1.5 Flushed u6-20020a056870f28600b000f18f95ae73si13380177oap.129 - gsmtp\r\n'
+reply: retcode (250); Msg: b'2.1.5 Flushed u6-20020a056870f28600b000f18f95ae73si13380177oap.129 - gsmtp'
+Starting job: Email In Pharaoh's Army: Memories of the Lost War to tpayne2345@gmail.com 
+
+Sending failed...
+ 
+Traceback (most recent call last):
+  File "calibre/gui2/email.py", line 48, in run
+  File "calibre/gui2/email.py", line 137, in sendmail
+  File "calibre/utils/smtp.py", line 162, in sendmail
+  File "calibre/utils/smtp.py", line 142, in sendmail_direct
+OSError: Failed to send mail: SMTPSenderRefused(503, b'5.5.1 EHLO/HELO first. s42-20020a05680820aa00b0032e9d95bfeesi11305290oiw.77 - gsmtp', 'tpayne2345@gmail.com')
+ 
+
+Retrying in 1 seconds...
+ 
+Waiting 1 seconds before sending, to avoid being marked as spam.
+You can control this delay via Preferences->Tweaks 
+
+Sending failed...
+ 
+Traceback (most recent call last):
+  File "calibre/gui2/email.py", line 48, in run
+  File "calibre/gui2/email.py", line 137, in sendmail
+  File "calibre/utils/smtp.py", line 162, in sendmail
+  File "calibre/utils/smtp.py", line 142, in sendmail_direct
+OSError: Failed to send mail: SMTPSenderRefused(503, b'5.5.1 EHLO/HELO first. u6-20020a056870f28600b000f18f95ae73si13380177oap.129 - gsmtp', 'tpayne2345@gmail.com')
+ 
+Job: "Email In Pharaoh's Army: Memories of the Lost War to tpayne2345@gmail.com" failed with error: 
+Traceback (most recent call last):
+  File "calibre/gui2/threaded_jobs.py", line 82, in start_work
+  File "calibre/gui2/email.py", line 105, in __call__
+  File "calibre/gui2/email.py", line 48, in run
+  File "calibre/gui2/email.py", line 137, in sendmail
+  File "calibre/utils/smtp.py", line 162, in sendmail
+  File "calibre/utils/smtp.py", line 142, in sendmail_direct
+OSError: Failed to send mail: SMTPSenderRefused(503, b'5.5.1 EHLO/HELO first. u6-20020a056870f28600b000f18f95ae73si13380177oap.129 - gsmtp', 'tpayne2345@gmail.com')
+ 
+Called with args: ('/tmp/calibre_5.43.0_tmp_0czh4ppe/h242tlfrcaltmpfmt.epub', "In Pharaoh's Army: Memories of the Lost War - Tobias Wolff.epub", 'tpayne2345@gmail.com', 'test', "Attached, you will find the e-book\n\nIn Pharaoh's Army: Memories of the Lost War\n\tby Tobias Wolff\n\nin the EPUB format.") {'notifications': <queue.Queue object at 0x7fe1defa10d0>, 'abort': <threading.Event object at 0x7fe1c810c8b0>, 'log': <calibre.utils.logging.GUILog object at 0x7fe1c810c0a0>} 
+
+QWaitCondition: mutex destroy failure (Device or resource busy)
+2022-06-13 19:31:56.741208 [worker-1] key=6e54904b-dcf0-4877-a7e0-e51d9c6d2f06/Raising_Good_Humans__A_Mindful_Guide_to_Br_-_Hunter_Clarke-Fields.epub
+2022-06-13 19:31:56.741388 [worker-1] policy=eyJleHBpcmF0aW9uIjoiMjAyMi0wNi0xNFQwMDozMTo1OFoiLCJjb25kaXRpb25zIjpbeyJidWNrZXQiOiJib29rZnVzaW9uLWR1In0seyJrZXkiOiI2ZTU0OTA0Yi1kY2YwLTQ4NzctYTdlMC1lNTFkOWM2ZDJmMDYvUmFpc2luZ19Hb29kX0h1bWFuc19fQV9NaW5kZnVsX0d1aWRlX3RvX0JyXy1fSHVudGVyX0NsYXJrZS1GaWVsZHMuZXB1YiJ9LFsiY29udGVudC1sZW5ndGgtcmFuZ2UiLDEsNjE0NTcyODBdLHsieC1hbXotY3JlZGVudGlhbCI6IkFLSUFZRFhBM1RRRzMzRERGNldHLzIwMjIwNjEzL3VzLWVhc3QtMS9zMy9hd3M0X3JlcXVlc3QifSx7IngtYW16LWFsZ29yaXRobSI6IkFXUzQtSE1BQy1TSEEyNTYifSx7IngtYW16LWRhdGUiOiIyMDIyMDYxM1QyMzMxNThaIn1dfQ==
+2022-06-13 19:31:56.741486 [worker-1] x-amz-credential=AKIAYDXA3TQG33DDF6WG/20220613/us-east-1/s3/aws4_request
+2022-06-13 19:31:56.741579 [worker-1] x-amz-algorithm=AWS4-HMAC-SHA256
+2022-06-13 19:31:56.741670 [worker-1] x-amz-date=20220613T233158Z
+2022-06-13 19:31:56.741760 [worker-1] x-amz-signature=22988cd0061924140fbadf6c2d14cf0ca4c7525c92236228978b9748aa6bffab
+2022-06-13 19:31:56.744680 [worker-1] Upload: 2
+2022-06-13 19:31:56.744961 [worker-1] key=6e54904b-dcf0-4877-a7e0-e51d9c6d2f06/Raising_Good_Humans__A_Mindful_Guide_to_Br_-_Hunter_Clarke-Fields.epub
+2022-06-13 19:31:56.745097 [worker-1] policy=eyJleHBpcmF0aW9uIjoiMjAyMi0wNi0xNFQwMDozMTo1OFoiLCJjb25kaXRpb25zIjpbeyJidWNrZXQiOiJib29rZnVzaW9uLWR1In0seyJrZXkiOiI2ZTU0OTA0Yi1kY2YwLTQ4NzctYTdlMC1lNTFkOWM2ZDJmMDYvUmFpc2luZ19Hb29kX0h1bWFuc19fQV9NaW5kZnVsX0d1aWRlX3RvX0JyXy1fSHVudGVyX0NsYXJrZS1GaWVsZHMuZXB1YiJ9LFsiY29udGVudC1sZW5ndGgtcmFuZ2UiLDEsNjE0NTcyODBdLHsieC1hbXotY3JlZGVudGlhbCI6IkFLSUFZRFhBM1RRRzMzRERGNldHLzIwMjIwNjEzL3VzLWVhc3QtMS9zMy9hd3M0X3JlcXVlc3QifSx7IngtYW16LWFsZ29yaXRobSI6IkFXUzQtSE1BQy1TSEEyNTYifSx7IngtYW16LWRhdGUiOiIyMDIyMDYxM1QyMzMxNThaIn1dfQ==
+2022-06-13 19:31:56.745198 [worker-1] x-amz-credential=AKIAYDXA3TQG33DDF6WG/20220613/us-east-1/s3/aws4_request
+2022-06-13 19:31:56.745294 [worker-1] x-amz-algorithm=AWS4-HMAC-SHA256
+2022-06-13 19:31:56.745407 [worker-1] x-amz-date=20220613T233158Z
+2022-06-13 19:31:56.745518 [worker-1] x-amz-signature=22988cd0061924140fbadf6c2d14cf0ca4c7525c92236228978b9748aa6bffab
+2022-06-13 19:31:56.766854 [worker-1] Upload: 2
+2022-06-13 19:31:56.767316 [worker-1] key=6e54904b-dcf0-4877-a7e0-e51d9c6d2f06/Raising_Good_Humans__A_Mindful_Guide_to_Br_-_Hunter_Clarke-Fields.epub
+2022-06-13 19:31:56.767450 [worker-1] policy=eyJleHBpcmF0aW9uIjoiMjAyMi0wNi0xNFQwMDozMTo1OFoiLCJjb25kaXRpb25zIjpbeyJidWNrZXQiOiJib29rZnVzaW9uLWR1In0seyJrZXkiOiI2ZTU0OTA0Yi1kY2YwLTQ4NzctYTdlMC1lNTFkOWM2ZDJmMDYvUmFpc2luZ19Hb29kX0h1bWFuc19fQV9NaW5kZnVsX0d1aWRlX3RvX0JyXy1fSHVudGVyX0NsYXJrZS1GaWVsZHMuZXB1YiJ9LFsiY29udGVudC1sZW5ndGgtcmFuZ2UiLDEsNjE0NTcyODBdLHsieC1hbXotY3JlZGVudGlhbCI6IkFLSUFZRFhBM1RRRzMzRERGNldHLzIwMjIwNjEzL3VzLWVhc3QtMS9zMy9hd3M0X3JlcXVlc3QifSx7IngtYW16LWFsZ29yaXRobSI6IkFXUzQtSE1BQy1TSEEyNTYifSx7IngtYW16LWRhdGUiOiIyMDIyMDYxM1QyMzMxNThaIn1dfQ==
+2022-06-13 19:31:56.767555 [worker-1] x-amz-credential=AKIAYDXA3TQG33DDF6WG/20220613/us-east-1/s3/aws4_request
+2022-06-13 19:31:56.767650 [worker-1] x-amz-algorithm=AWS4-HMAC-SHA256
+2022-06-13 19:31:56.767744 [worker-1] x-amz-date=20220613T233158Z
+2022-06-13 19:31:56.767836 [worker-1] x-amz-signature=22988cd0061924140fbadf6c2d14cf0ca4c7525c92236228978b9748aa6bffab
+2022-06-13 19:31:57.136944 [worker-1] Upload response: b''
+2022-06-13 19:31:59.774044 [worker-1] Upload finalize response: b'{"id":2369504}'
+Find mail exchanger for gmail.com
+Traceback (most recent call last):
+  File "calibre/utils/smtp.py", line 134, in sendmail_direct
+  File "smtplib.py", line 970, in send_message
+  File "smtplib.py", line 871, in sendmail
+smtplib.SMTPSenderRefused: (503, b'5.5.1 EHLO/HELO first. s42-20020a05680820aa00b0032e9d95bfeesi11305290oiw.77 - gsmtp', 'tpayne2345@gmail.com')
+
+Find mail exchanger for gmail.com
+Traceback (most recent call last):
+  File "calibre/utils/smtp.py", line 134, in sendmail_direct
+  File "smtplib.py", line 970, in send_message
+  File "smtplib.py", line 871, in sendmail
+smtplib.SMTPSenderRefused: (503, b'5.5.1 EHLO/HELO first. u6-20020a056870f28600b000f18f95ae73si13380177oap.129 - gsmtp', 'tpayne2345@gmail.com')
+
+Restarting with: /opt/calibre/bin/calibre
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+Unable to detect a web browser to launch 'http://127.0.0.1:8081'
+Failed to connect to Portal Notifications service
+Starting job: Email The Dying Place to tpayne2345@gmail.com 
+connect: ('mail.gmx.com', 587) 
+connect: to ('mail.gmx.com', 587) None 
+reply: b'220 gmx.net (mrgmx104) Nemesis ESMTP Service ready\r\n' 
+reply: retcode (220); Msg: b'gmx.net (mrgmx104) Nemesis ESMTP Service ready' 
+connect: b'gmx.net (mrgmx104) Nemesis ESMTP Service ready' 
+send: 'ehlo [172.18.0.6]\r\n' 
+reply: b'250-gmx.net Hello [172.18.0.6] [205.144.210.203]\r\n' 
+reply: b'250-8BITMIME\r\n' 
+reply: b'250-SIZE 69920427\r\n' 
+reply: b'250 STARTTLS\r\n' 
+reply: retcode (250); Msg: b'gmx.net Hello [172.18.0.6] [205.144.210.203]\n8BITMIME\nSIZE 69920427\nSTARTTLS' 
+
+Sending failed...
+ 
+Traceback (most recent call last):
+  File "calibre/gui2/email.py", line 48, in run
+  File "calibre/gui2/email.py", line 137, in sendmail
+  File "calibre/utils/smtp.py", line 180, in sendmail
+  File "smtplib.py", line 700, in login
+smtplib.SMTPNotSupportedError: SMTP AUTH extension not supported by server.
+ 
+
+Retrying in 30 seconds...
+ 
+Waiting 30 seconds before sending, to avoid being marked as spam.
+You can control this delay via Preferences->Tweaks 
+connect: ('mail.gmx.com', 587) 
+connect: to ('mail.gmx.com', 587) None 
+reply: b'220 gmx.net (mrgmx004) Nemesis ESMTP Service ready\r\n' 
+reply: retcode (220); Msg: b'gmx.net (mrgmx004) Nemesis ESMTP Service ready' 
+connect: b'gmx.net (mrgmx004) Nemesis ESMTP Service ready' 
+send: 'ehlo [172.18.0.6]\r\n' 
+reply: b'250-gmx.net Hello [172.18.0.6] [205.144.210.203]\r\n' 
+reply: b'250-8BITMIME\r\n' 
+reply: b'250-SIZE 69920427\r\n' 
+reply: b'250 STARTTLS\r\n' 
+reply: retcode (250); Msg: b'gmx.net Hello [172.18.0.6] [205.144.210.203]\n8BITMIME\nSIZE 69920427\nSTARTTLS' 
+
+Sending failed...
+ 
+Traceback (most recent call last):
+  File "calibre/gui2/email.py", line 48, in run
+  File "calibre/gui2/email.py", line 137, in sendmail
+  File "calibre/utils/smtp.py", line 180, in sendmail
+  File "smtplib.py", line 700, in login
+smtplib.SMTPNotSupportedError: SMTP AUTH extension not supported by server.
+ 
+Job: "Email The Dying Place to tpayne2345@gmail.com" failed with error: 
+Traceback (most recent call last):
+  File "calibre/gui2/threaded_jobs.py", line 82, in start_work
+  File "calibre/gui2/email.py", line 105, in __call__
+  File "calibre/gui2/email.py", line 48, in run
+  File "calibre/gui2/email.py", line 137, in sendmail
+  File "calibre/utils/smtp.py", line 180, in sendmail
+  File "smtplib.py", line 700, in login
+smtplib.SMTPNotSupportedError: SMTP AUTH extension not supported by server.
+ 
+Called with args: ('/tmp/calibre_5.43.0_tmp_hw6ix39s/ruqep5d1caltmpfmt.epub', 'The Dying Place - David A. Maurer.epub', 'tpayne2345@gmail.com', 'test', 'Attached, you will find the e-book\n\nThe Dying Place\n\tby David A. Maurer\n\nin the EPUB format.') {'notifications': <queue.Queue object at 0x7f54a1b897c0>, 'abort': <threading.Event object at 0x7f54a1b89760>, 'log': <calibre.utils.logging.GUILog object at 0x7f54a1b898e0>} 
+
+Starting job: Email The Eyes of the Dragon to tpayne2345@gmail.com 
+connect: ('mail.gmx.com', 587) 
+connect: to ('mail.gmx.com', 587) None 
+reply: b'220 gmx.net (mrgmx004) Nemesis ESMTP Service ready\r\n' 
+reply: retcode (220); Msg: b'gmx.net (mrgmx004) Nemesis ESMTP Service ready' 
+connect: b'gmx.net (mrgmx004) Nemesis ESMTP Service ready' 
+send: 'ehlo [172.18.0.6]\r\n' 
+reply: b'250-gmx.net Hello [172.18.0.6] [205.144.210.203]\r\n' 
+reply: b'250-8BITMIME\r\n' 
+reply: b'250-SIZE 69920427\r\n' 
+reply: b'250 STARTTLS\r\n' 
+reply: retcode (250); Msg: b'gmx.net Hello [172.18.0.6] [205.144.210.203]\n8BITMIME\nSIZE 69920427\nSTARTTLS' 
+send: 'STARTTLS\r\n' 
+reply: b'220 OK\r\n' 
+reply: retcode (220); Msg: b'OK' 
+send: 'ehlo [172.18.0.6]\r\n' 
+reply: b'250-gmx.net Hello [172.18.0.6] [205.144.210.203]\r\n' 
+reply: b'250-8BITMIME\r\n' 
+reply: b'250-AUTH LOGIN PLAIN\r\n' 
+reply: b'250 SIZE 69920427\r\n' 
+reply: retcode (250); Msg: b'gmx.net Hello [172.18.0.6] [205.144.210.203]\n8BITMIME\nAUTH LOGIN PLAIN\nSIZE 69920427' 
+send: AUTH <censored> 
+reply: b'535 Authentication credentials invalid\r\n' 
+reply: retcode (535); Msg: b'Authentication credentials invalid' 
+send: AUTH <censored> 
+reply: b'334 UGFzc3dvcmQ6\r\n' 
+reply: retcode (334); Msg: b'UGFzc3dvcmQ6' 
+send: 'XjYjc2hHJUxnVlYyIzhEWkNHdlI=\r\n' 
+reply: b'535 Authentication credentials invalid\r\n' 
+reply: retcode (535); Msg: b'Authentication credentials invalid' 
+
+Sending failed...
+ 
+Traceback (most recent call last):
+  File "calibre/gui2/email.py", line 48, in run
+  File "calibre/gui2/email.py", line 137, in sendmail
+  File "calibre/utils/smtp.py", line 180, in sendmail
+  File "smtplib.py", line 734, in login
+  File "smtplib.py", line 723, in login
+  File "smtplib.py", line 646, in auth
+smtplib.SMTPAuthenticationError: (535, b'Authentication credentials invalid')
+ 
+
+Retrying in 30 seconds...
+ 
+Waiting 30 seconds before sending, to avoid being marked as spam.
+You can control this delay via Preferences->Tweaks 
+connect: ('mail.gmx.com', 587) 
+connect: to ('mail.gmx.com', 587) None 
+reply: b'220 gmx.net (mrgmx104) Nemesis ESMTP Service ready\r\n' 
+reply: retcode (220); Msg: b'gmx.net (mrgmx104) Nemesis ESMTP Service ready' 
+connect: b'gmx.net (mrgmx104) Nemesis ESMTP Service ready' 
+send: 'ehlo [172.18.0.6]\r\n' 
+reply: b'250-gmx.net Hello [172.18.0.6] [205.144.210.203]\r\n' 
+reply: b'250-8BITMIME\r\n' 
+reply: b'250-SIZE 69920427\r\n' 
+reply: b'250 STARTTLS\r\n' 
+reply: retcode (250); Msg: b'gmx.net Hello [172.18.0.6] [205.144.210.203]\n8BITMIME\nSIZE 69920427\nSTARTTLS' 
+send: 'STARTTLS\r\n' 
+reply: b'220 OK\r\n' 
+reply: retcode (220); Msg: b'OK' 
+send: 'ehlo [172.18.0.6]\r\n' 
+reply: b'250-gmx.net Hello [172.18.0.6] [205.144.210.203]\r\n' 
+reply: b'250-8BITMIME\r\n' 
+reply: b'250-AUTH LOGIN PLAIN\r\n' 
+reply: b'250 SIZE 69920427\r\n' 
+reply: retcode (250); Msg: b'gmx.net Hello [172.18.0.6] [205.144.210.203]\n8BITMIME\nAUTH LOGIN PLAIN\nSIZE 69920427' 
+send: AUTH <censored> 
+reply: b'535 Authentication credentials invalid\r\n' 
+reply: retcode (535); Msg: b'Authentication credentials invalid' 
+send: AUTH <censored> 
+reply: b'334 UGFzc3dvcmQ6\r\n' 
+reply: retcode (334); Msg: b'UGFzc3dvcmQ6' 
+send: 'XjYjc2hHJUxnVlYyIzhEWkNHdlI=\r\n' 
+reply: b'535 Authentication credentials invalid\r\n' 
+reply: retcode (535); Msg: b'Authentication credentials invalid' 
+
+Sending failed...
+ 
+Traceback (most recent call last):
+  File "calibre/gui2/email.py", line 48, in run
+  File "calibre/gui2/email.py", line 137, in sendmail
+  File "calibre/utils/smtp.py", line 180, in sendmail
+  File "smtplib.py", line 734, in login
+  File "smtplib.py", line 723, in login
+  File "smtplib.py", line 646, in auth
+smtplib.SMTPAuthenticationError: (535, b'Authentication credentials invalid')
+ 
+Job: "Email The Eyes of the Dragon to tpayne2345@gmail.com" failed with error: 
+Traceback (most recent call last):
+  File "calibre/gui2/threaded_jobs.py", line 82, in start_work
+  File "calibre/gui2/email.py", line 105, in __call__
+  File "calibre/gui2/email.py", line 48, in run
+  File "calibre/gui2/email.py", line 137, in sendmail
+  File "calibre/utils/smtp.py", line 180, in sendmail
+  File "smtplib.py", line 734, in login
+  File "smtplib.py", line 723, in login
+  File "smtplib.py", line 646, in auth
+smtplib.SMTPAuthenticationError: (535, b'Authentication credentials invalid')
+ 
+Called with args: ('/tmp/calibre_5.43.0_tmp_hw6ix39s/djlivy_6caltmpfmt.epub', 'The Eyes of the Dragon - Stephen King.epub', 'tpayne2345@gmail.com', 'New books!', 'Attached, you will find the e-book\n\nThe Eyes of the Dragon\n\tby Stephen King\n\nin the EPUB format.\n\nAbout this book:\n\n“It is just not possible to stop turning the pages” (The Washington\nPost) of this bestselling classic tale—an epic fantasy as only Stephen\nKing could envision it.“Once, in a kingdom called Delain, there was a\nking with two sons….” Thus begins one of the most unique tales that\nmaster storyteller Stephen King has ever written—a sprawling fantasy\nof dark magic and the struggle for absolute power that utterly\ntransforms the destinies of two brothers born into royalty. Through\nthis enthralling masterpiece of mythical adventure, intrigue, and\nterror, you will thrill to this unforgettable narrative filled with\nrelentless, wicked enchantment, and the most terrible of secrets….') {'notifications': <queue.Queue object at 0x7f547b604940>, 'abort': <threading.Event object at 0x7f547b604c10>, 'log': <calibre.utils.logging.GUILog object at 0x7f547b604cd0>} 
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 53521, resource id: 8405703, major code: 40 (TranslateCoords), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 56703, resource id: 8406228, major code: 40 (TranslateCoords), minor code: 0
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-abc'
+Unable to detect a web browser to launch 'https://calibre-ebook.com/download_linux'

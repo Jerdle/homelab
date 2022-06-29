@@ -1,0 +1,16 @@
+<Config>
+  <LogLevel>info</LogLevel>
+  <UrlBase></UrlBase>
+  <UpdateMechanism>Docker</UpdateMechanism>
+  <BindAddress>*</BindAddress>
+  <Port>8686</Port>
+  <SslPort>6868</SslPort>
+  <EnableSsl>False</EnableSsl>
+  <LaunchBrowser>True</LaunchBrowser>
+  <ApiKey>3be1e6d9025f460bb2776947cd99b4f8</ApiKey>
+  <AuthenticationMethod>None</AuthenticationMethod>
+  <Branch>master</Branch>
+  <SslCertPath></SslCertPath>
+  <SslCertPassword></SslCertPassword>
+  <InstanceName>Lidarr</InstanceName>
+</Config>
