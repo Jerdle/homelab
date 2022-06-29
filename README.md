@@ -183,8 +183,9 @@ Network-wide ad blocker
 - [Blacklist file](pi/pihole/Pihole-Block.rtf)
 - [Firebog Blocklists](https://firebog.net/)
 - [anudeepND Whitelist](https://github.com/anudeepND/whitelist)
-<br>
+
 Update
+<br>
 `pihole -up`
 
 ### [Airconnect](https://github.com/philippe44/AirConnect)
