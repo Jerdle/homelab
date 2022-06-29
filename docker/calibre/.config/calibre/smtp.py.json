@@ -1,0 +1,32 @@
+{
+  "accounts": {
+    "lindseyshaye24@gmail.com": [
+      "EPUB",
+      true,
+      false
+    ],
+    "tpayne2345@gmail.com": [
+      "EPUB",
+      true,
+      true
+    ],
+    "tpayne2345@icloud.com": [
+      "MOBI, EPUB",
+      false,
+      false
+    ]
+  },
+  "aliases": {},
+  "encryption": "TLS",
+  "from_": "tylerpayne2345@outlook.com",
+  "relay_host": "smtp-mail.outlook.com",
+  "relay_password": "5e3471744a5e44326641",
+  "relay_port": 587,
+  "relay_username": "tylerpayne2345@outlook.com",
+  "subjects": {
+    "lindseyshaye24@gmail.com": "New books!",
+    "tpayne2345@gmail.com": "New books!",
+    "tpayne2345@icloud.com": "New Books!"
+  },
+  "tags": {}
+}
