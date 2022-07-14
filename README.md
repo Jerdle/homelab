@@ -138,6 +138,10 @@ system prune
 <br>
 `sudo docker system prune --all --volumes`
 
+### qBittorrent + VPN
+Using Mullvad VPN port 57001, following command to check IP in docker container
+<br>
+`curl ifconfig.me`
 
 ### Myanonymouse
 When qBittorrent is restarted and given a new IP address, Myanonymouse must run a script to set the dynamic seedbox ip
