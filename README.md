@@ -138,6 +138,12 @@ system prune
 <br>
 `sudo docker system prune --all --volumes`
 
+### Update Containers
+2 commands:
+<br>
+`sudo docker-compose pull`
+`sudo docker-compose up -d`
+
 ### qBittorrent + VPN
 Using Mullvad VPN port 57001, following command to check IP in docker container
 <br>
