@@ -138,10 +138,11 @@ system prune
 <br>
 `sudo docker system prune --all --volumes`
 
-### Update Containers
+#### Update Containers
 2 commands:
 <br>
 `sudo docker-compose pull`
+<br>
 `sudo docker-compose up -d`
 
 ### qBittorrent + VPN
