@@ -139,7 +139,7 @@ system prune
 `sudo docker system prune --all --volumes`
 
 #### Update Containers
-2 commands:
+2 commands:<br>
 `sudo docker-compose pull`
 <br>
 `sudo docker-compose up -d`
